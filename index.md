@@ -4,7 +4,7 @@ layout: default
 
 # Fall 2025
 
-This seminar meets on Fridays 3:30-4:30 PM in Blocker 302.
+This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 
 The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
@@ -26,3 +26,11 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | November 14, 2025 |         |       |       |
 | November 21, 2025 |         |       |       |
 | December 5, 2025  |         |       |       |
+
+
+
+
+# Related Links
+
+- [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
+- [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics)

@@ -25,6 +25,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | November 7, 2025  |         |       |       |
 | November 14, 2025 |         |       |       |
 | November 21, 2025 |         |       |       |
+| November 28, 2025 |         |       |  No seminar (Thanksgiving)     |
 | December 5, 2025  |         |       |       |
 
 

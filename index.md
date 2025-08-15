@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: { fontCache: 'global' }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+
+
 # Fall 2025
 
 This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
@@ -9,10 +21,9 @@ This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
 
-
-| Date         | Speaker | Title | Notes |
+| Date         | Speaker | Title | Abstract |
 |--------------|---------|-------|-------|
-| August 29, 2025   |         |       |       |
+| August 29, 2025   | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/)        |  Oscillation of graph eigenfunctions and its applications     |  <span class="abstract-link" onclick="showAbstract('abstract1')">View Abstract</span> |  |
 | September 5, 2025 |         |       |       |
 | September 12, 2025|         |       |       |
 | September 19, 2025|         |       |       |
@@ -29,6 +40,96 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | December 5, 2025  |         |       |       |
 
 
+<!-- Abstract content (hidden) -->
+<div id="abstract1" style="display:none;">
+  <p>We discuss a formula that expresses the number of sign changes of the
+  <code>k</code>-th eigenvector of a graph operator as the sum of the "Sturm
+  contribution" <code>k-1</code> and a "cycle contribution" which takes the form of
+  the Morse index (number of negative eigenvalues) of a weighted cycle
+  intersection form associated with the graph.</p>
+
+  <p>This result has many interesting connections. First, it allows one to
+  derive a simple formula for the Hessian of the dispersion relation of
+  a particular class of crystals (periodic lattices), namely maximal
+  abelian covers of finite graphs. Second, it can be used to
+  efficiently determine stability of a stationary solution on a coupled
+  oscillator network, such as the non-uniform Kuramoto model for the
+  synchronization of a network of electrical oscillators. Finally, the
+  determinant of the weighted cycle intersection form is the first
+  Symanzik polynomial of the graph (closely related to the Kirchhoff
+  polynomial), hinting at connections to both Feynman amplitudes and
+  matroids.</p>
+
+  <p>Based on joint work with Jared Bronski and Mark Goresky.</p>
+</div>
+
+<style>
+.abstract-link {
+  color: blue;
+  text-decoration: bold;
+  cursor: pointer;
+}
+</style>
+
+<style>
+/* Modal background */
+#abstract-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: none;
+  z-index: 1000;
+}
+
+/* Modal box */
+#abstract-modal {
+  background: white;
+  width: 80%;
+  max-width: 700px;
+  margin: 5% auto;
+  padding: 20px;
+  border-radius: 8px;
+  position: relative;
+  overflow-y: auto;
+  max-height: 90vh;
+  font-family: Arial, sans-serif;
+}
+
+/* Close button */
+#abstract-modal-close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+</style>
+
+<!-- Modal structure -->
+<div id="abstract-modal-overlay" onclick="closeAbstractModal(event)">
+  <div id="abstract-modal" onclick="event.stopPropagation()">
+    <span id="abstract-modal-close" onclick="closeAbstractModal()">&times;</span>
+    <h2>Abstract</h2>
+    <div id="abstract-modal-content"></div>
+  </div>
+</div>
+
+<script>
+function showAbstract(id) {
+  const content = document.getElementById(id).innerHTML;
+  document.getElementById('abstract-modal-content').innerHTML = content;
+  document.getElementById('abstract-modal-overlay').style.display = 'block';
+}
+
+function closeAbstractModal(event) {
+  if (!event || event.target.id === 'abstract-modal-overlay' || event.target.id === 'abstract-modal-close') {
+    document.getElementById('abstract-modal-overlay').style.display = 'none';
+  }
+}
+</script>
 
 
 # Related Links

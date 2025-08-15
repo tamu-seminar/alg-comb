@@ -21,12 +21,12 @@ This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
 
-| Date         | Speaker | Title | Abstract |
+| Date         | Speaker | Title |  Other |
 |--------------|---------|-------|-------|
-| August 29, 2025   | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/)        |  Oscillation of graph eigenfunctions and its applications     |  <span class="abstract-link" onclick="showAbstract('abstract1')">View Abstract</span> |  |
-| September 5, 2025 |         |       |       |
-| September 12, 2025|         |       |       |
-| September 19, 2025|         |       |       |
+| August 29, 2025   | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/)        |  Oscillation of graph eigenfunctions and its applications     |  <span class="abstract-link" onclick="showAbstract('abs-berkolaiko')">View Abstract</span> |
+| September 5, 2025 |         |       |   No seminar (promotion talks)    |
+| September 12, 2025|         |       |   No seminar (promotion talks)    |
+| September 19, 2025| [Frank Sottile](https://franksottile.github.io/) | $(n-1)!$ formulas for double Schubert polynomials |   <span class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</span>     |
 | September 26, 2025|         |       |       |
 | October 3, 2025   |         |       |       |
 | October 10, 2025  |         |       |       |
@@ -40,8 +40,27 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | December 5, 2025  |         |       |       |
 
 
-<!-- Abstract content (hidden) -->
-<div id="abstract1" style="display:none;">
+
+# Related Links
+
+- [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
+- [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (very out of date of Aug 13, 2025)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Abstract content -->
+
+<div id="abs-berkolaiko" style="display:none;">
   <p>We discuss a formula that expresses the number of sign changes of the
 $k$-th eigenvector of a graph operator as the sum of the "Sturm
 contribution" $k-1$ and a "cycle contribution" which takes the form of
@@ -62,6 +81,13 @@ intersection form associated with the graph.</p>
 
   <p>Based on joint work with Jared Bronski and Mark Goresky.</p>
 </div>
+
+<div id="abs-sottile" style="display:none;">
+  <p>TBA!</p>
+</div>
+
+
+<!-- Code that makes the pop-up windows -->
 
 <style>
 .abstract-link {
@@ -130,9 +156,3 @@ function closeAbstractModal(event) {
   }
 }
 </script>
-
-
-# Related Links
-
-- [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
-- [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (very out of date of Aug 13, 2025)

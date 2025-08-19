@@ -95,19 +95,6 @@ intersection form associated with the graph.</p>
 <!-- Code that makes the pop-up windows -->
 
 <style>
-.abstract-link {
-  color: rgb(69, 68, 182);
-  font-weight: bold;
-  cursor: pointer;
-}
-.abstract-link:hover {
-      color: rgb(69, 68, 182);
-      text-decoration: underline;
-      font-weight: bold;
-    }
-</style>
-
-<style>
 /* Modal background */
 #abstract-modal-overlay {
   position: fixed;

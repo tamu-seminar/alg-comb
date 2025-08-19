@@ -11,6 +11,7 @@ layout: default
     svg: { fontCache: 'global' }
   };
 </script>
+
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
 
 
@@ -95,10 +96,15 @@ intersection form associated with the graph.</p>
 
 <style>
 .abstract-link {
-  color: blue;
-  text-decoration: bold;
+  color: rgb(69, 68, 182);
+  font-weight: bold;
   cursor: pointer;
 }
+.abstract-link:hover {
+      color: rgb(69, 68, 182);
+      text-decoration: underline;
+      font-weight: bold;
+    }
 </style>
 
 <style>

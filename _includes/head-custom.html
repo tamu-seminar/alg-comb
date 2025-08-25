@@ -1,9 +1,31 @@
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-<!-- Setup Google Analytics -->
-{% include head-custom-google-analytics.html %}
-
-<!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Blue Links Example</title>
+  <style>
+    a {
+      color: rgb(69, 69, 182);
+      font-weight: bold;
+    }
+    a:hover {
+      color: rgb(69, 68, 182);
+      text-decoration: underline;
+      font-weight: bold;
+    }
+    .abstract-link {
+    color: rgb(69, 68, 182);
+    font-weight: bold;
+    cursor: pointer;
+    }
+    .abstract-link:hover {
+      color: rgb(69, 68, 182);
+      text-decoration: underline;
+      font-weight: bold;
+    }
+  </style>
+</head>
 
 <!-- end custom head snippets -->

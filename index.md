@@ -61,25 +61,35 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 <!-- Abstract content -->
 
 <div id="abs-berkolaiko" style="display:none;">
-  <p>We discuss a formula that expresses the number of sign changes of the
-$k$-th eigenvector of a graph operator as the sum of the "Sturm
-contribution" $k-1$ and a "cycle contribution" which takes the form of
-the Morse index (number of negative eigenvalues) of a weighted cycle
-intersection form associated with the graph.</p>
+  <p>Oscillation theory, originally due to Sturm, seeks to connect the
+number of sign changes of an eigenfunction of a self-adjoint operator
+to the label $k$ of the corresponding eigenvalue.  Its applications
+run in both directions: knowing $k$, one may wish to estimate the zero
+set, or the topology of its complement, useful in clustering and
+partitioning problems.  Conversely, knowing an eigenvector (and thus
+the number of its sign changes), one may want to determine if it is
+the ground state, useful in the linear stability analysis of solutions
+to nonlinear equations.</p>
 
-  <p>This result has many interesting connections. First, it allows one to
-  derive a simple formula for the Hessian of the dispersion relation of
-  a particular class of crystals (periodic lattices), namely maximal
-  abelian covers of finite graphs. Second, it can be used to
-  efficiently determine stability of a stationary solution on a coupled
-  oscillator network, such as the non-uniform Kuramoto model for the
-  synchronization of a network of electrical oscillators. Finally, the
-  determinant of the weighted cycle intersection form is the first
-  Symanzik polynomial of the graph (closely related to the Kirchhoff
-  polynomial), hinting at connections to both Feynman amplitudes and
-  matroids.</p>
+  <p>Within the setting of generalized graph Laplacians, Fiedler's theorem
+says that the $k$-th eigenvector of a tree (a graph without cycles)
+changes sign across exactly $k-1$ edges.  We present a formula for the
+number of sign changes on a general graph, which attributes the excess
+sign changes to the cycles in the graph and their intersections.</p>
 
-  <p>Based on joint work with Jared Bronski and Mark Goresky.</p>
+<p>This result has many interesting connections.  First, it allows one to
+derive a simple formula for the effective mass tensor of a particular
+class of crystals (periodic lattices), namely the maximal abelian
+covers of finite graphs.  Second, it can be used to efficiently
+determine stability of a stationary solution on a coupled oscillator
+network, such as the non-uniform Kuramoto model for the
+synchronization of a network of electrical oscillators.  Finally, the
+determinant of the matrix which determines the excess sign changes is
+closely related to the graph's Kirchhoff polynomial (which counts the
+weighted spanning trees), hinting at connections to both Feynman
+amplitudes and matroids.</p>
+
+  <p>Based on a joint work with Jared Bronski and Mark Goresky.</p>
 </div>
 
 <div id="abs-sottile" style="display:none;">

@@ -21,24 +21,23 @@ This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 
 The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
-
-| Date         | Speaker | Title |  Other |
-|--------------|---------|-------|-------|
-| August 29, 2025   | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/)        |  Oscillation of graph eigenfunctions and its applications     |  <span class="abstract-link" onclick="showAbstract('abs-berkolaiko')">View Abstract</span> |
-| September 5, 2025 |         |       |   No seminar (promotion talks)    |
-| September 12, 2025|         |       |   No seminar (promotion talks)    |
-| September 19, 2025| [Frank Sottile](https://franksottile.github.io/) | $(n-1)!$ formulas for double Schubert polynomials |   <span class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</span>     |
-| September 26, 2025|         |       |       |
-| October 3, 2025   |         |       |       |
-| October 10, 2025  |         |       |       |
-| October 17, 2025  | [Christin Bibby](https://www.math.lsu.edu/~bibby/)        |  TBA     |       |
-| October 24, 2025  |         |       |       |
-| October 31, 2025  |         |       |       |
-| November 7, 2025  |         |       |       |
-| November 14, 2025 |         |       |       |
-| November 21, 2025 |         |       |       |
-| November 28, 2025 |         |       |  No seminar (Thanksgiving)     |
-| December 5, 2025  |         |       |       |
+| Date | Speaker | Title | Other |
+|------|---------|-------|-------|
+| August 29, 2025 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) | Oscillation of graph eigenfunctions and its applications | <button type="button" class="abstract-link" onclick="showAbstract('abs-berkolaiko')">View Abstract</button> |
+| September 5, 2025 | | | No seminar (promotion talks) |
+| September 12, 2025 | | | No seminar (promotion talks) |
+| September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
+| September 26, 2025 | | | |
+| October 3, 2025 | | | |
+| October 10, 2025 | | | |
+| October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) | TBA | |
+| October 24, 2025 | | | |
+| October 31, 2025 | | | |
+| November 7, 2025 | | | |
+| November 14, 2025 | | | |
+| November 21, 2025 | | | |
+| November 28, 2025 | | | No seminar (Thanksgiving) |
+| December 5, 2025 | | | |
 
 
 
@@ -61,39 +60,29 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 
 <!-- Abstract content -->
 
-<div id="abs-berkolaiko" style="display:none;">
-  <p>Oscillation theory, originally due to Sturm, seeks to connect the
-number of sign changes of an eigenfunction of a self-adjoint operator
-to the label $k$ of the corresponding eigenvalue.  Its applications
-run in both directions: knowing $k$, one may wish to estimate the zero
-set, or the topology of its complement, useful in clustering and
-partitioning problems.  Conversely, knowing an eigenvector (and thus
-the number of its sign changes), one may want to determine if it is
-the ground state, useful in the linear stability analysis of solutions
-to nonlinear equations.</p>
+<div id="abs-berkolaiko" style="display:none;" aria-hidden="true">
+  <p>We discuss a formula that expresses the number of sign changes of the
+$k$-th eigenvector of a graph operator as the sum of the "Sturm
+contribution" $k-1$ and a "cycle contribution" which takes the form of
+the Morse index (number of negative eigenvalues) of a weighted cycle
+intersection form associated with the graph.</p>
 
-  <p>Within the setting of generalized graph Laplacians, Fiedler's theorem
-says that the $k$-th eigenvector of a tree (a graph without cycles)
-changes sign across exactly $k-1$ edges.  We present a formula for the
-number of sign changes on a general graph, which attributes the excess
-sign changes to the cycles in the graph and their intersections.</p>
+  <p>This result has many interesting connections. First, it allows one to
+  derive a simple formula for the Hessian of the dispersion relation of
+  a particular class of crystals (periodic lattices), namely maximal
+  abelian covers of finite graphs. Second, it can be used to
+  efficiently determine stability of a stationary solution on a coupled
+  oscillator network, such as the non-uniform Kuramoto model for the
+  synchronization of a network of electrical oscillators. Finally, the
+  determinant of the weighted cycle intersection form is the first
+  Symanzik polynomial of the graph (closely related to the Kirchhoff
+  polynomial), hinting at connections to both Feynman amplitudes and
+  matroids.</p>
 
-<p>This result has many interesting connections.  First, it allows one to
-derive a simple formula for the effective mass tensor of a particular
-class of crystals (periodic lattices), namely the maximal abelian
-covers of finite graphs.  Second, it can be used to efficiently
-determine stability of a stationary solution on a coupled oscillator
-network, such as the non-uniform Kuramoto model for the
-synchronization of a network of electrical oscillators.  Finally, the
-determinant of the matrix which determines the excess sign changes is
-closely related to the graph's Kirchhoff polynomial (which counts the
-weighted spanning trees), hinting at connections to both Feynman
-amplitudes and matroids.</p>
-
-  <p>Based on a joint work with Jared Bronski and Mark Goresky.</p>
+  <p>Based on joint work with Jared Bronski and Mark Goresky.</p>
 </div>
 
-<div id="abs-sottile" style="display:none;">
+<div id="abs-sottile" style="display:none;" aria-hidden="true">
 <p>Double Schubert polynomials are a family of polynomials in two sets of variables which represent classes in equivariant cohomology in the flag manifold.   They are indexed by permutations in the symmetric group.  They have many known formulas, including one in terms of pipe dreams by Bergeron and Billey and another in terms of bumpless pipe dreams by Lam, Lee, and Shimizono.</p>
 
 <p>Today, I will describe $(n-1)!$ different formulas for double Schubert polynomials expressed in terms of certain chains in the Bruhat order.  Two of them are the previously mentions pipe dream formulas.  While the results are combinatorial, the methods are geometric.  One ingredient is a specialisation formula from work with Adeyemo from 2017 and another is a Pieri-type formula from work with Li, Ravikumar, and Yang from 2019.  The formula (and proof) generalizes a similar result for ordinary Schubert polynomials from 2002 in work with Bergeron.</p>
@@ -141,12 +130,18 @@ amplitudes and matroids.</p>
 }
 </style>
 
-<!-- Modal structure -->
-<div id="abstract-modal-overlay" onclick="closeAbstractModal(event)">
+<div id="abstract-modal-overlay"
+     role="dialog"
+     aria-modal="true"
+     aria-labelledby="abstract-modal-title"
+     style="display:none;"
+     onclick="closeAbstractModal(event)">
   <div id="abstract-modal" onclick="event.stopPropagation()">
-    <span id="abstract-modal-close" onclick="closeAbstractModal()">&times;</span>
-    <h2>Abstract</h2>
-    <div id="abstract-modal-content"></div>
+    <button id="abstract-modal-close"
+            aria-label="Close abstract modal"
+            onclick="closeAbstractModal()">&times;</button>
+    <h2 id="abstract-modal-title">Abstract</h2>
+    <div id="abstract-modal-content" tabindex="0"></div>
   </div>
 </div>
 
@@ -154,12 +149,29 @@ amplitudes and matroids.</p>
 function showAbstract(id) {
   const content = document.getElementById(id).innerHTML;
   document.getElementById('abstract-modal-content').innerHTML = content;
-  document.getElementById('abstract-modal-overlay').style.display = 'block';
+
+  const overlay = document.getElementById('abstract-modal-overlay');
+  overlay.style.display = 'block';
+
+  // Move focus into the modal
+  document.getElementById('abstract-modal').focus();
+
+  // Add Esc key support
+  document.addEventListener('keydown', escCloseHandler);
 }
 
 function closeAbstractModal(event) {
   if (!event || event.target.id === 'abstract-modal-overlay' || event.target.id === 'abstract-modal-close') {
     document.getElementById('abstract-modal-overlay').style.display = 'none';
+
+    // Remove Esc key support
+    document.removeEventListener('keydown', escCloseHandler);
+  }
+}
+
+function escCloseHandler(e) {
+  if (e.key === 'Escape') {
+    closeAbstractModal();
   }
 }
 </script>

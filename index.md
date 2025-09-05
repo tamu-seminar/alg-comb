@@ -27,7 +27,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 5, 2025 | | | No seminar (promotion talks) |
 | September 12, 2025 | | | No seminar (promotion talks) |
 | September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
-| September 26, 2025 | [Anne Shelpler](https://sites.math.unt.edu/~ashepler/) | | |
+| September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) | | |
 | October 3, 2025 | | | |
 | October 10, 2025 | | | |
 | October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) | TBA | |

@@ -23,21 +23,21 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 
 | Date | Speaker | Title | Other |
 |------|---------|-------|-------|
-| August 29, 2025 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) | Oscillation of graph eigenfunctions and its applications | <button type="button" class="abstract-link" onclick="showAbstract('abs-berkolaiko')">View Abstract</button> |
+| August 29, 2025 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) (TAMU) | Oscillation of graph eigenfunctions and its applications | <button type="button" class="abstract-link" onclick="showAbstract('abs-berkolaiko')">View Abstract</button> |
 | September 5, 2025 | | | No seminar (promotion talks) |
 | September 12, 2025 | | | No seminar (promotion talks) |
-| September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
-| September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) | | |
+| September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) (TAMU) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
+| September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | | |
 | October 3, 2025 | | | |
 | October 10, 2025 | | | |
-| October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) | TBA | |
+| October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)| TBA | |
 | October 24, 2025 | | | |
-| October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) | | |
+| October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
 | November 7, 2025 | | | |
 | November 14, 2025 | | | |
 | November 21, 2025 | | | |
 | November 28, 2025 | | | No seminar (Thanksgiving) |
-| December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) | | |
+| December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | | |
 
 
 

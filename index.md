@@ -30,12 +30,12 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | | |
 | October 3, 2025 | | | |
 | October 10, 2025 | | | |
-| October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)| TBA | |
+| October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)| | |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
 | November 7, 2025 | | | |
 | November 14, 2025 | | | |
-| November 21, 2025 | | | |
+| November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | |
 | November 28, 2025 | | | No seminar (Thanksgiving) |
 | December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | | |
 

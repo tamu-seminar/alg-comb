@@ -30,7 +30,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | | |
 | October 3, 2025 | | | |
 | October 10, 2025 | | | |
-| October 17, 2025 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)| | |
+| October 17, 2025 | | | |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
 | November 7, 2025 | | | |

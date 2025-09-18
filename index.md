@@ -27,7 +27,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 5, 2025 | | | No seminar (promotion talks) |
 | September 12, 2025 | | | No seminar (promotion talks) |
 | September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) (TAMU) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
-| September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | | |
+| September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | Coxeter and q-Catalan numbers for reflection groups over unpleasant fields | <button type="button" class="abstract-link" onclick="showAbstract('shepler')">View Abstract</button> |
 | October 3, 2025 | | | |
 | October 10, 2025 |  | | |
 | October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | | |
@@ -98,6 +98,10 @@ amplitudes and matroids.</p>
 <p>Today, I will describe $(n-1)!$ different formulas for double Schubert polynomials expressed in terms of certain chains in the Bruhat order.  Two of them are the previously mentions pipe dream formulas.  While the results are combinatorial, the methods are geometric.  One ingredient is a specialisation formula from work with Adeyemo from 2017 and another is a Pieri-type formula from work with Li, Ravikumar, and Yang from 2019.  The formula (and proof) generalizes a similar result for ordinary Schubert polynomials from 2002 in work with Bergeron.</p>
 
 <p>This is joint work with Tianyi Yu of UQAM.</p>
+</div>
+
+<div id="shepler" style="display:none;" aria-hidden="true">
+<p>Motivated by Catalan combinatorics for Weyl and Coxeter groups, we consider differential derivations for reflection groups defined over arbitrary fields, including those with challenging characteristics.  In the classical invariant theory of complex reflection groups, Solomon's celebrated 1963 theorem reveals the invariants of the exterior algebra of differential forms as an exterior algebra in its own right.  We investigate similar invariants when the characteristic of the field divides the order of the acting group and traditional proof techniques break down.</p>
 </div>
 
 

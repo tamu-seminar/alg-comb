@@ -33,7 +33,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | | |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
-| November 7, 2025 | | | |
+| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | | |
 | November 14, 2025 | | | |
 | November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | |
 | November 28, 2025 | | | No seminar (Thanksgiving) |

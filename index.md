@@ -105,7 +105,7 @@ amplitudes and matroids.</p>
 </div>
 
 <div id="defant" style="display:none;" aria-hidden="true">
-<p>For each finite Coxeter group $W$ and each standard Coxeter element of $W$, we construct a triangulation of the W-permutahedron. Our proof relies on the theory of total linear stability for Dynkin quivers. We also explore several notable combinatorial properties of these triangulations that relate the Bruhat order, the noncrossing partition lattice, and Cambrian congruences. Each triangulation gives an explicit mechanism for relating two different presentations of the corresponding braid group (the standard Artin presentation and Bessis's dual presentation). This is joint work with Melissa Sherman-Bennett and Nathan Williams. </p>
+<p>For each finite Coxeter group $W$ and each standard Coxeter element of $W$, we construct a triangulation of the $W$-permutahedron. Our proof relies on the theory of total linear stability for Dynkin quivers. We also explore several notable combinatorial properties of these triangulations that relate the Bruhat order, the noncrossing partition lattice, and Cambrian congruences. Each triangulation gives an explicit mechanism for relating two different presentations of the corresponding braid group (the standard Artin presentation and Bessis's dual presentation). This is joint work with Melissa Sherman-Bennett and Nathan Williams. </p>
 </div>
 
 

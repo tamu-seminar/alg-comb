@@ -30,7 +30,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | Coxeter and $q$-Catalan numbers for reflection groups over unpleasant fields | <button type="button" class="abstract-link" onclick="showAbstract('shepler')">View Abstract</button> |
 | October 3, 2025 | [Colin Defant](https://sites.google.com/view/colin-defant/home) (Harvard) | Braid Group Presentations and Triangulations of the Permutahedron| <button type="button" class="abstract-link" onclick="showAbstract('defant')">View Abstract</button> |
 | October 10, 2025 |  | | |
-| October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | | |
+| October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | Algebra and geometry of ASM weak order | <button type="button" class="abstract-link" onclick="showAbstract('klein')">View Abstract</button> |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
 | November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | | |
@@ -109,6 +109,10 @@ amplitudes and matroids.</p>
 </div>
 
 
+<div id="klein" style="display:none;" aria-hidden="true">
+<p> In 2018, Hamaker and Reiner generalized the notions of weak order and descent sets from permutations to alternating sign matrices (ASMs).  As one associates a matrix Schubert variety to a permutation, one can more generally associate an intersection of matrix Schubert varieties (now called ASM varieties) to an ASM.  In this talk, we will review the role of matrix Schubert varieties - and their unions and intersections - in Schubert calculus and describe classical uses of the permutation matrices and strong Bruhat order in encoding algebro-geometric invariants.  We will then describe new work giving relationships between poset combinatorics and algebro-geometric invariants determined by the ASMs under weak order. This is joint work with Laura Escobar and Anna Weigandt.
+ </p>
+</div>
 
 <!-- Code that makes the pop-up windows -->
 

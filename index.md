@@ -118,6 +118,10 @@ amplitudes and matroids.</p>
  </p>
 </div>
 
+<div id="ocal" style="display:none;" aria-hidden="true">
+<p>Tableaux are fundamental objects in combinatorics and the representation theory of the symmetric group, but they are rarely studied for their own sake. In this talk I will present a natural monoid structure on the set of semistandard Young tableaux, and the good properties inherited by its associated algebra. Just to name a few, it is Koszul, Noetherian, reduced, Jacobson, and Cohen--Macaulay. We will then mention two applications of our work; one to algebraic geometry, and another to representation theory. For the first, we will show that the tableaux algebra is a flat degeneration of the algebra of global sections of the partial flag variety. For the second, we will show that the monoid structure of semistandard Young tableaux induces a crystal embedding when applied to the highest (or lowest) weight vectors. </p>
+</div>
+
 <!-- Code that makes the pop-up windows -->
 
 <style>

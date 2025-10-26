@@ -109,17 +109,13 @@ amplitudes and matroids.</p>
 </div>
 
 <div id="ocal" style="display:none;" aria-hidden="true">
-<p>Tableaux are fundamental objects in combinatorics and the representation theory of the symmetric group, but they are rarely studied for their own sake. In this talk I will present a natural monoid structure on the set of semistandard Young tableaux, and the good properties inherited by its associated algebra. Just to name a few, it is Koszul, Noetherian, reduced, Jacobson, and Cohen--Macaulay. We will then mention two applications of our work; one to algebraic geometry, and another to representation theory. For the first, we will show that the tableaux algebra is a flat degeneration of the algebra of global sections of the partial flag variety. For the second, we will show that the monoid structure of semistandard Young tableaux induces a crystal embedding when applied to the highest (or lowest) weight vectors. </p>
+<p>Tableaux are fundamental objects in representation theory and combinatorics, and variations of the Schensted algorithm have endowed them with rich algebraic structures. In this talk I will discuss a naive monoid structure on the set of semistandard Young tableaux that does not arise as an insertion algorithm, and the good properties inherited by its associated algebra. Just to name a few, it is Koszul, Noetherian, reduced, Jacobson, and Cohen--Macaulay. We will then mention two applications of our work; one to algebraic geometry, and another to representation theory. For the first, we will show that the tableaux algebra is a flat degeneration of the algebra of global sections of the partial flag variety. For the second, we will show that this naive monoid structure of semistandard Young tableaux induces a crystal embedding when applied to the highest (or lowest) weight vectors. </p>
 </div>
 
 
 <div id="klein" style="display:none;" aria-hidden="true">
 <p> In 2018, Hamaker and Reiner generalized the notions of weak order and descent sets from permutations to alternating sign matrices (ASMs).  As one associates a matrix Schubert variety to a permutation, one can more generally associate an intersection of matrix Schubert varieties (now called ASM varieties) to an ASM.  In this talk, we will review the role of matrix Schubert varieties - and their unions and intersections - in Schubert calculus and describe classical uses of the permutation matrices and strong Bruhat order in encoding algebro-geometric invariants.  We will then describe new work giving relationships between poset combinatorics and algebro-geometric invariants determined by the ASMs under weak order. This is joint work with Laura Escobar and Anna Weigandt.
  </p>
-</div>
-
-<div id="ocal" style="display:none;" aria-hidden="true">
-<p>Tableaux are fundamental objects in combinatorics and the representation theory of the symmetric group, but they are rarely studied for their own sake. In this talk I will present a natural monoid structure on the set of semistandard Young tableaux, and the good properties inherited by its associated algebra. Just to name a few, it is Koszul, Noetherian, reduced, Jacobson, and Cohen--Macaulay. We will then mention two applications of our work; one to algebraic geometry, and another to representation theory. For the first, we will show that the tableaux algebra is a flat degeneration of the algebra of global sections of the partial flag variety. For the second, we will show that the monoid structure of semistandard Young tableaux induces a crystal embedding when applied to the highest (or lowest) weight vectors. </p>
 </div>
 
 <!-- Code that makes the pop-up windows -->

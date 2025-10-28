@@ -32,8 +32,8 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | October 10, 2025 |  | | |
 | October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | Algebra and geometry of ASM weak order | <button type="button" class="abstract-link" onclick="showAbstract('klein')">View Abstract</button> |
 | October 24, 2025 | | | |
-| October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
-| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | Machine learning combinatorial bijections | |
+| October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | The tableaux algebra, with applications to geometry and crystals | <button type="button" class="abstract-link" onclick="showAbstract('ocal')">View Abstract</button> |
+| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) |Machine learning combinatorial bijections  | |
 | November 14, 2025 | | | |
 | November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | |
 | November 28, 2025 | | | No seminar (Thanksgiving) |
@@ -106,6 +106,10 @@ amplitudes and matroids.</p>
 
 <div id="defant" style="display:none;" aria-hidden="true">
 <p>For each finite Coxeter group $W$ and each standard Coxeter element of $W$, we construct a triangulation of the $W$-permutahedron. Our proof relies on the theory of total linear stability for Dynkin quivers. We also explore several notable combinatorial properties of these triangulations that relate the Bruhat order, the noncrossing partition lattice, and Cambrian congruences. Each triangulation gives an explicit mechanism for relating two different presentations of the corresponding braid group (the standard Artin presentation and Bessis's dual presentation). This is joint work with Melissa Sherman-Bennett and Nathan Williams. </p>
+</div>
+
+<div id="ocal" style="display:none;" aria-hidden="true">
+<p>Tableaux are fundamental objects in representation theory and combinatorics, and variations of the Schensted algorithm have endowed them with rich algebraic structures. In this talk I will discuss a naive monoid structure on the set of semistandard Young tableaux that does not arise as an insertion algorithm, and the good properties inherited by its associated algebra. Just to name a few, it is Koszul, Noetherian, reduced, Jacobson, and Cohen--Macaulay. We will then mention two applications of our work; one to algebraic geometry, and another to representation theory. For the first, we will show that the tableaux algebra is a flat degeneration of the algebra of global sections of the partial flag variety. For the second, we will show that this naive monoid structure of semistandard Young tableaux induces a crystal embedding when applied to the highest (or lowest) weight vectors. </p>
 </div>
 
 

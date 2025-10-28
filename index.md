@@ -33,7 +33,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | Algebra and geometry of ASM weak order | <button type="button" class="abstract-link" onclick="showAbstract('klein')">View Abstract</button> |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | | |
-| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | | |
+| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | Machine learning combinatorial bijections | |
 | November 14, 2025 | | | |
 | November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | |
 | November 28, 2025 | | | No seminar (Thanksgiving) |
@@ -111,6 +111,12 @@ amplitudes and matroids.</p>
 
 <div id="klein" style="display:none;" aria-hidden="true">
 <p> In 2018, Hamaker and Reiner generalized the notions of weak order and descent sets from permutations to alternating sign matrices (ASMs).  As one associates a matrix Schubert variety to a permutation, one can more generally associate an intersection of matrix Schubert varieties (now called ASM varieties) to an ASM.  In this talk, we will review the role of matrix Schubert varieties - and their unions and intersections - in Schubert calculus and describe classical uses of the permutation matrices and strong Bruhat order in encoding algebro-geometric invariants.  We will then describe new work giving relationships between poset combinatorics and algebro-geometric invariants determined by the ASMs under weak order. This is joint work with Laura Escobar and Anna Weigandt.
+ </p>
+</div>
+
+
+<div id="jackson" style="display:none;" aria-hidden="true">
+<p> Machine learning (ML) and Artificial Intelligence (AI) are changing how mathematics research is done, and combinatorics is no exception. This talk will showcase some of the main concepts at the intersection of ML and combinatorics by discussing ongoing research on the q,t-Catalan numbers, a family of polynomials that refine the classical Catalan numbers. The q,t-Catalan numbers originally arose in the study of modules over the space of diagonal harmonics, but have since been realized combinatorially via pairs of statistics on Dyck paths. The two pairs of statistics that realize the q,t-Catalan numbers are (area, bounce) and (dinv, area), and there is a bijection on Dyck paths, called the zeta map, which maps area to dinv and bounce to area. The goal of this project is to use the well-understood zeta map as a proving ground for using ML to understand combinatorial bijections. We show not only that the machine can learn the zeta map, but also that its combinatorics can be extracted from the model. Using insights from the learned model, we provide a new combinatorial description of the zeta map.
  </p>
 </div>
 

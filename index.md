@@ -29,7 +29,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) (TAMU) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
 | September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | Coxeter and $q$-Catalan numbers for reflection groups over unpleasant fields | <button type="button" class="abstract-link" onclick="showAbstract('shepler')">View Abstract</button> |
 | October 3, 2025 | [Colin Defant](https://sites.google.com/view/colin-defant/home) (Harvard) | Braid Group Presentations and Triangulations of the Permutahedron| <button type="button" class="abstract-link" onclick="showAbstract('defant')">View Abstract</button> |
-| October 10, 2025 |  | | |
+| October 10, 2025 |  | | No seminar, enjoy fall break!|
 | October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | Algebra and geometry of ASM weak order | <button type="button" class="abstract-link" onclick="showAbstract('klein')">View Abstract</button> |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | The tableaux algebra, with applications to geometry and crystals | <button type="button" class="abstract-link" onclick="showAbstract('ocal')">View Abstract</button> |

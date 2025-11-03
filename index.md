@@ -125,7 +125,7 @@ amplitudes and matroids.</p>
 </div>
 
 <div id="fillman" style="display:none;" aria-hidden="true">
-<p> Periodic Schr\"odinger operators on graphs play an important role in mathematical physics, as they furnish models of crystals and photonic metamaterials. I will describe some recent results that connect combinatorial and topological aspects of the graph with the measure of the spectrum and spectral gaps.
+<p> Periodic Schrödinger operators on graphs play an important role in mathematical physics, as they furnish models of crystals and photonic metamaterials. I will describe some recent results that connect combinatorial and topological aspects of the graph with the measure of the spectrum and spectral gaps.
  </p>
 </div>
 

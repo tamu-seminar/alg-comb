@@ -35,7 +35,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | The tableaux algebra, with applications to geometry and crystals | <button type="button" class="abstract-link" onclick="showAbstract('ocal')">View Abstract</button> |
 | November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | Machine learning combinatorial bijections  | <button type="button" class="abstract-link" onclick="showAbstract('jackson')">View Abstract</button> |
 | November 14, 2025 | | | |
-| November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators ||
+| November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | Machine learning combinatorial bijections  | <button type="button" class="abstract-link" onclick="showAbstract('fillman')">View Abstract</button>|
 | November 28, 2025 | | | No seminar (Thanksgiving) |
 | December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | | |
 
@@ -121,6 +121,11 @@ amplitudes and matroids.</p>
 
 <div id="jackson" style="display:none;" aria-hidden="true">
 <p> Machine learning (ML) and Artificial Intelligence (AI) are changing how mathematics research is done, and combinatorics is no exception. This talk will showcase some of the main concepts at the intersection of ML and combinatorics by discussing ongoing research on the q,t-Catalan numbers, a family of polynomials that refine the classical Catalan numbers. The q,t-Catalan numbers originally arose in the study of modules over the space of diagonal harmonics, but have since been realized combinatorially via pairs of statistics on Dyck paths. The two pairs of statistics that realize the q,t-Catalan numbers are (area, bounce) and (dinv, area), and there is a bijection on Dyck paths, called the zeta map, which maps area to dinv and bounce to area. The goal of this project is to use the well-understood zeta map as a proving ground for using ML to understand combinatorial bijections. We show not only that the machine can learn the zeta map, but also that its combinatorics can be extracted from the model. Using insights from the learned model, we provide a new combinatorial description of the zeta map.
+ </p>
+</div>
+
+<div id="fillman" style="display:none;" aria-hidden="true">
+<p> Periodic Schr\"odinger operators on graphs play an important role in mathematical physics, as they furnish models of crystals and photonic metamaterials. I will describe some recent results that connect combinatorial and topological aspects of the graph with the measure of the spectrum and spectral gaps.
  </p>
 </div>
 

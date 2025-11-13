@@ -34,7 +34,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | The tableaux algebra, with applications to geometry and crystals | <button type="button" class="abstract-link" onclick="showAbstract('ocal')">View Abstract</button> |
 | November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | Machine learning combinatorial bijections  | <button type="button" class="abstract-link" onclick="showAbstract('jackson')">View Abstract</button> |
-| November 20, 2025 | [Zach Hamaker](https://people.clas.ufl.edu/zhamaker/) | Mu involutions, Schubert polynomials and the variety of complete quadrics | <button type="button" class="abstract-link" onclick="showAbstract('hamaker')">View Abstract</button>, Note the special day! |
+| November 20, 2025 | [Zach Hamaker](https://people.clas.ufl.edu/zhamaker/) (U Florida) | Mu involutions, Schubert polynomials and the variety of complete quadrics | <button type="button" class="abstract-link" onclick="showAbstract('hamaker')">View Abstract</button>, Note the special day! |
 | November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | <button type="button" class="abstract-link" onclick="showAbstract('fillman')">View Abstract</button>|
 | November 28, 2025 | | | No seminar (Thanksgiving) |
 | December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | | |

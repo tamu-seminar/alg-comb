@@ -29,13 +29,13 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) (TAMU) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
 | September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | Coxeter and $q$-Catalan numbers for reflection groups over unpleasant fields | <button type="button" class="abstract-link" onclick="showAbstract('shepler')">View Abstract</button> |
 | October 3, 2025 | [Colin Defant](https://sites.google.com/view/colin-defant/home) (Harvard) | Braid Group Presentations and Triangulations of the Permutahedron| <button type="button" class="abstract-link" onclick="showAbstract('defant')">View Abstract</button> |
-| October 10, 2025 |  | | |
+| October 10, 2025 |  | | No seminar, enjoy fall break!|
 | October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | Algebra and geometry of ASM weak order | <button type="button" class="abstract-link" onclick="showAbstract('klein')">View Abstract</button> |
 | October 24, 2025 | | | |
 | October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | The tableaux algebra, with applications to geometry and crystals | <button type="button" class="abstract-link" onclick="showAbstract('ocal')">View Abstract</button> |
-| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | | |
+| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | Machine learning combinatorial bijections  | <button type="button" class="abstract-link" onclick="showAbstract('jackson')">View Abstract</button> |
 | November 20, 2025 | [Zach Hamaker](https://people.clas.ufl.edu/zhamaker/) | Mu involutions, Schubert polynomials and the variety of complete quadrics | Note the special day! |
-| November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | |
+| November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | <button type="button" class="abstract-link" onclick="showAbstract('fillman')">View Abstract</button>|
 | November 28, 2025 | | | No seminar (Thanksgiving) |
 | December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | | |
 
@@ -115,6 +115,17 @@ amplitudes and matroids.</p>
 
 <div id="klein" style="display:none;" aria-hidden="true">
 <p> In 2018, Hamaker and Reiner generalized the notions of weak order and descent sets from permutations to alternating sign matrices (ASMs).  As one associates a matrix Schubert variety to a permutation, one can more generally associate an intersection of matrix Schubert varieties (now called ASM varieties) to an ASM.  In this talk, we will review the role of matrix Schubert varieties - and their unions and intersections - in Schubert calculus and describe classical uses of the permutation matrices and strong Bruhat order in encoding algebro-geometric invariants.  We will then describe new work giving relationships between poset combinatorics and algebro-geometric invariants determined by the ASMs under weak order. This is joint work with Laura Escobar and Anna Weigandt.
+ </p>
+</div>
+
+
+<div id="jackson" style="display:none;" aria-hidden="true">
+<p> Machine learning (ML) and Artificial Intelligence (AI) are changing how mathematics research is done, and combinatorics is no exception. This talk will showcase some of the main concepts at the intersection of ML and combinatorics by discussing ongoing research on the q,t-Catalan numbers, a family of polynomials that refine the classical Catalan numbers. The q,t-Catalan numbers originally arose in the study of modules over the space of diagonal harmonics, but have since been realized combinatorially via pairs of statistics on Dyck paths. The two pairs of statistics that realize the q,t-Catalan numbers are (area, bounce) and (dinv, area), and there is a bijection on Dyck paths, called the zeta map, which maps area to dinv and bounce to area. The goal of this project is to use the well-understood zeta map as a proving ground for using ML to understand combinatorial bijections. We show not only that the machine can learn the zeta map, but also that its combinatorics can be extracted from the model. Using insights from the learned model, we provide a new combinatorial description of the zeta map.
+ </p>
+</div>
+
+<div id="fillman" style="display:none;" aria-hidden="true">
+<p> Periodic Schrödinger operators on graphs play an important role in mathematical physics, as they furnish models of crystals and photonic metamaterials. I will describe some recent results that connect combinatorial and topological aspects of the graph with the measure of the spectrum and spectral gaps.
  </p>
 </div>
 

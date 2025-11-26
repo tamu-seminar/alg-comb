@@ -137,8 +137,10 @@ amplitudes and matroids.</p>
 <div id="griffin" style="display:none;" aria-hidden="true">
 <p> 
 The Stanley-Stembridge conjecture asserts that the chromatic symmetric functions for particular graphs are e-positive, meaning that they expand positively in the elementary symmetric function basis. Recently, Hikita proved this conjecture by guessing a remarkable formula for the e-expansion coefficients and then proving it satisfies a well-known recurrence. We give a second proof of Hikita's formula by direct algebraic methods involving the $A_{q,t}$ algebra of Carlsson and Mellit and localization formulas for parabolic flag Hilbert schemes. In fact, we obtain an expansion into Macdonald polynomials that involve an extra parameter $t$. Upon specializing t to different values, we obtain expansions into various bases of symmetric functions, including Hikita's elementary basis expansion.
-
+</p>
+<p>
 This is joint work with Anton Mellit, Marino Romero, Kevin Weigl, and Joshua Jeishing Wen.
+</p>
 </div>
 
 <!-- Code that makes the pop-up windows -->

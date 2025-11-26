@@ -37,7 +37,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen D
 | November 20, 2025 | [Zach Hamaker](https://people.clas.ufl.edu/zhamaker/) (U Florida) | Mu involutions, Schubert polynomials and the variety of complete quadrics | <button type="button" class="abstract-link" onclick="showAbstract('hamaker')">View Abstract</button>, Note the special day! |
 | November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | <button type="button" class="abstract-link" onclick="showAbstract('fillman')">View Abstract</button>|
 | November 28, 2025 | | | No seminar (Thanksgiving) |
-| December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | | |
+| December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | A proof of the Stanley-Stembridge conjecture via parabolic flag Hilbert schemes and $A_{q,t}$ algebra | <button type="button" class="abstract-link" onclick="showAbstract('griffin')">View Abstract</button> |
 
 
 
@@ -132,6 +132,13 @@ amplitudes and matroids.</p>
 <div id="hamaker" style="display:none;" aria-hidden="true">
 <p> Mu involutions interpolate between permutations and involutions. They index Borel orbits in the variety of complete quadrics, or equivalently certain subvarieties of the flag variety. I will discuss several of their Coxeter theoretic properties: strong and weak Bruhat order, an exchange lemma, atoms. Then I will explain a combinatorial recurrence for cohomology representatives of their associated orbits before concluding with some speculative remarks regarding Schubert calculus on the variety of complete quadrics. This is joint work with Jack Chou.
  </p>
+</div>
+
+<div id="griffin" style="display:none;" aria-hidden="true">
+<p> 
+The Stanley-Stembridge conjecture asserts that the chromatic symmetric functions for particular graphs are e-positive, meaning that they expand positively in the elementary symmetric function basis. Recently, Hikita proved this conjecture by guessing a remarkable formula for the e-expansion coefficients and then proving it satisfies a well-known recurrence. We give a second proof of Hikita's formula by direct algebraic methods involving the $A_{q,t}$ algebra of Carlsson and Mellit and localization formulas for parabolic flag Hilbert schemes. In fact, we obtain an expansion into Macdonald polynomials that involve an extra parameter $t$. Upon specializing t to different values, we obtain expansions into various bases of symmetric functions, including Hikita's elementary basis expansion.
+
+This is joint work with Anton Mellit, Marino Romero, Kevin Weigl, and Joshua Jeishing Wen.
 </div>
 
 <!-- Code that makes the pop-up windows -->

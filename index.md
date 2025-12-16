@@ -15,36 +15,39 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
 
 
-# Fall 2025
+# Spring 2026
 
 This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 
-The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
+The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Karn](https://trevorkarn.github.io/), and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
-| Date | Speaker | Title | Other |
-|------|---------|-------|-------|
-| August 29, 2025 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) (TAMU) | Oscillation of graph eigenfunctions and its applications | <button type="button" class="abstract-link" onclick="showAbstract('abs-berkolaiko')">View Abstract</button> |
-| September 5, 2025 | | | No seminar (promotion talks) |
-| September 12, 2025 | | | No seminar (promotion talks) |
-| September 19, 2025 | [Frank Sottile](https://franksottile.github.io/) (TAMU) | $(n-1)!$ formulas for double Schubert polynomials | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button> |
-| September 26, 2025 | [Anne Shepler](https://sites.math.unt.edu/~ashepler/) (UNT) | Coxeter and $q$-Catalan numbers for reflection groups over unpleasant fields | <button type="button" class="abstract-link" onclick="showAbstract('shepler')">View Abstract</button> |
-| October 3, 2025 | [Colin Defant](https://sites.google.com/view/colin-defant/home) (Harvard) | Braid Group Presentations and Triangulations of the Permutahedron| <button type="button" class="abstract-link" onclick="showAbstract('defant')">View Abstract</button> |
-| October 10, 2025 |  | | No seminar, enjoy fall break!|
-| October 17, 2025 | [Patricia Klein](https://patriciajklein.github.io/) (TAMU) | Algebra and geometry of ASM weak order | <button type="button" class="abstract-link" onclick="showAbstract('klein')">View Abstract</button> |
-| October 24, 2025 | | | |
-| October 31, 2025 |[Pablo Ocal](https://pabloocal.github.io/) (ICERM) | The tableaux algebra, with applications to geometry and crystals | <button type="button" class="abstract-link" onclick="showAbstract('ocal')">View Abstract</button> |
-| November 7, 2025 | [Blake Jackson](https://www.blakejacksonmath.com/) (UConn) | Machine learning combinatorial bijections  | <button type="button" class="abstract-link" onclick="showAbstract('jackson')">View Abstract</button> |
-| November 20, 2025 | [Zach Hamaker](https://people.clas.ufl.edu/zhamaker/) (U Florida) | Mu involutions, Schubert polynomials and the variety of complete quadrics | <button type="button" class="abstract-link" onclick="showAbstract('hamaker')">View Abstract</button>, Note the special day! |
-| November 21, 2025 | [Jake Fillman](https://sites.google.com/site/jakefillman/) (TAMU)| On the spectra of periodic graph operators | <button type="button" class="abstract-link" onclick="showAbstract('fillman')">View Abstract</button>|
-| November 28, 2025 | | | No seminar (Thanksgiving) |
-| December 5, 2025 | [Sean Griffin](https://sites.google.com/view/sgriffin/home) (UNT) | A proof of the Stanley-Stembridge conjecture via parabolic flag Hilbert schemes and $A_{q,t}$ algebra | <button type="button" class="abstract-link" onclick="showAbstract('griffin')">View Abstract</button> |
+| Date              | Speaker | Title | Other |
+|-------------------|---------|-------|-------|
+| January 16, 2026  |         |       |       |
+| January 23, 2026  |         |       |       |
+| January 30, 2026  |         |       |       |
+| February 6, 2026  |         |       |       |
+| February 13, 2026 |         |       |       |
+| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |       |       |
+| February 27, 2026 |         |       |       |
+| March 6, 2026     |         |       |       |
+| March 13, 2026    |         |       |       |
+| March 20, 2026    |         |       |       |
+| March 27, 2026    |         |       |       |
+| April 3, 2026     |         |       |       |
+| April 10, 2026    |         |       |       |
+| April 17, 2026    |         |       |       |
+| April 24, 2026    |         |       |       |
 
-<!-- # Past Seminars
-- [Fall 2025](2025_2.md) -->
+
+
+# Past Semesters
+- [Fall 2025](2025_2.md)
 
 
 # Related Links
 
+- [Geometry Seminar](https://tamu-seminar.github.io/geometry/) 
 - [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
 - [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (very out of date of Aug 13, 2025)
 

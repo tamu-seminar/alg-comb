@@ -28,7 +28,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | January 30, 2026  |         |       |       |
 | February 6, 2026  |         |       |       |
 | February 13, 2026 |         |       |       |
-| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |       |       |
+| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 | February 27, 2026 |         |       |       |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |         |       |       |
@@ -38,6 +38,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | April 10, 2026    |         |       |       |
 | April 17, 2026    |         |       |       |
 | April 24, 2026    |         |       |       |
+| April 25-26, 2026    |         |  Combinatexas     |  [Conference Website](https://sites.google.com/view/combinatexas-2026/home)     |
 
 
 
@@ -47,6 +48,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 
 # Related Links
 
+- [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)
 - [Geometry Seminar](https://tamu-seminar.github.io/geometry/) 
 - [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
 - [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (very out of date of Aug 13, 2025)

@@ -25,7 +25,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 |-------------------|---------|-------|-------|
 | January 16, 2026  |         |       |       |
 | January 23, 2026  |         |       |       |
-| January 30, 2026  |         |       |       |
+| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  TBA     | TBA      |
 | February 6, 2026  |         |       |       |
 | February 13, 2026 |         |       |       |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |

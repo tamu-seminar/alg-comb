@@ -31,10 +31,10 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 | February 27, 2026 |         |       |       |
 | March 6, 2026     |         |       |       |
-| March 13, 2026    |         |       |       |
+| March 13, 2026    |No seminar|Spring|Break  |
 | March 20, 2026    |         |       |       |
 | March 27, 2026    |         |       |       |
-| April 3, 2026     |         |       |       |
+| April 3, 2026     |No seminar|Reading|Day   |
 | April 10, 2026    |         |       |       |
 | April 17, 2026    |         |       |       |
 | April 24, 2026    |         |       |       |

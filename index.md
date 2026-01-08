@@ -29,6 +29,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 6, 2026  |         |       |       |
 | February 13, 2026 |         |       |       |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
+|**February 26, 2026** at **4pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | TBA | Joint with Department Colloqium. <br><br> Note special day and time.|
 | February 27, 2026 |         |       |       |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |No seminar|Spring|Break  |

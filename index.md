@@ -38,7 +38,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | April 3, 2026     |No seminar|Reading|Day   |
 | April 10, 2026    |         |       |       |
 | April 17, 2026    |         |       |       |
-| April 24, 2026    |         |       |       |
+| April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | TBA |  TBA     |
 | April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
 
 

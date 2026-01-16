@@ -26,7 +26,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | January 16, 2026  |         |       |       |
 | January 23, 2026  |         |       |       |
 | January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     | TBA      |
-| February 6, 2026  |         |       |       |
+| February 6, 2026  | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  TBA  | TBA   |
 | February 13, 2026 |         |       |       |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 |**February 26, 2026** at **4pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | TBA | Joint with Department Colloqium. <br><br> Note special day and time.|

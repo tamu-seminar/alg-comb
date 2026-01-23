@@ -25,15 +25,15 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 |-------------------|---------|-------|-------|
 | January 16, 2026  |         |       |       |
 | January 23, 2026  |         |       |       |
-| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     | TBA      |
+| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  Joint with Geometry Seminar      |
 | February 6, 2026  | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  TBA  | TBA   |
-| February 13, 2026 |         |       |       |
+| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |       |   Happy GALENtines Day    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 |**February 26, 2026** at **4pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | TBA | Joint with Department Colloqium. <br><br> Note special day and time.|
 | February 27, 2026 |         |       |       |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |No seminar|Spring|Break  |
-| March 20, 2026    |         |       |       |
+| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |
 | March 27, 2026    |         |       |       |
 | April 3, 2026     |No seminar|Reading|Day   |
 | April 10, 2026    |         |       |       |

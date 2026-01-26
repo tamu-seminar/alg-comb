@@ -27,7 +27,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | January 23, 2026  |         |       |       |
 | January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  Joint with Geometry Seminar      |
 | February 6, 2026  | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  TBA  | TBA   |
-| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |       |   Happy GALENtines Day    |
+| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   Happy GALENtines Day    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 |**February 26, 2026** at **4pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | TBA | Joint with Department Colloqium. <br><br> Note special day and time.|
 | February 27, 2026 |         |       |       |
@@ -67,6 +67,10 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 
 
 <!-- Abstract content -->
+
+<div id="dicerbo" style="display:none;" aria-hidden="true">
+<p>In this talk, I will present a detailed study of the curvature and symplectic asphericity properties of symmetric products of curves. I show that these spaces can be used to answer nuanced questions arising in the study of closed Riemannian manifolds with positive scalar curvature. For example, symmetric products of curves sharply distinguish between two distinct notions of macroscopic dimension introduced by Gromov and Dranishnikov. As a natural generalization of this circle of ideas, I will also address the Gromov–Lawson and Gromov conjectures in the Kaehler projective setting and draw new connections between the theories of the minimal model, positivity in algebraic geometry, and macroscopic dimensions. This is joint work with Alexander Dranishnikov and Ekansh Jauhari.</p>
+</div>
 
 
 

@@ -25,7 +25,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 |-------------------|---------|-------|-------|
 | January 16, 2026  |         |       |       |
 | January 23, 2026  |         |       |       |
-| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  Joint with Geometry Seminar, <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>      |
+| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>, Joint with Geometry Seminar     |
 | February 6, 2026  | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  TBA  | TBA   |
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   Happy GALENtines Day    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |

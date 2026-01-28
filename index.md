@@ -51,7 +51,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 
 - [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)
 - [Texas A&M Geometry Seminar](https://tamu-seminar.github.io/geometry/) 
-- [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
+- [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html)
 - [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (very out of date of Aug 13, 2025)
 
 

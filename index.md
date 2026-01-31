@@ -37,7 +37,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | March 27, 2026    |         |       |       |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
-| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/)   |    TBA   |  TBA     |
+| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    TBA   |  TBA     |
 | April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | TBA |  TBA     |
 | April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
 

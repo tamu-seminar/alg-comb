@@ -32,12 +32,12 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 |**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | TBA | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Note special day and time.|
 | February 27, 2026 |         |       |       |
 | March 6, 2026     |         |       |       |
-| March 13, 2026    |No seminar|Spring|Break  |
+| March 13, 2026    |No seminar| |Spring Break  |
 | March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |
 | March 27, 2026    |         |       |       |
-| April 3, 2026     |No seminar|Reading|Day   |
-| April 10, 2026    |         |       |       |
-| April 17, 2026    |         |       |       |
+| April 3, 2026     |No seminar|| Reading Day   |
+| April 10, 2026    | No seminar         |       |       |
+| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/)   |    TBA   |  TBA     |
 | April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | TBA |  TBA     |
 | April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
 

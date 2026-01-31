@@ -26,7 +26,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | January 16, 2026  |         |       |       |
 | January 23, 2026  |         |       |       |
 | January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>, Joint with [Geometry](https://tamu-seminar.github.io/geometry/) and [Noncommutative Geometry](https://tamu-seminar.github.io/noncommutative-geometry/) Seminars    |
-| February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  TBA  | TBA   |
+| February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 |**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | TBA | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Note special day and time.|
@@ -70,6 +70,10 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 
 <div id="dicerbo" style="display:none;" aria-hidden="true">
 <p>In this talk, I will present a detailed study of the curvature and symplectic asphericity properties of symmetric products of curves. I show that these spaces can be used to answer nuanced questions arising in the study of closed Riemannian manifolds with positive scalar curvature. For example, symmetric products of curves sharply distinguish between two distinct notions of macroscopic dimension introduced by Gromov and Dranishnikov. As a natural generalization of this circle of ideas, I will also address the Gromov–Lawson and Gromov conjectures in the Kaehler projective setting and draw new connections between the theories of the minimal model, positivity in algebraic geometry, and macroscopic dimensions. This is joint work with Alexander Dranishnikov and Ekansh Jauhari.</p>
+</div>
+
+<div id="woo" style="display:none;" aria-hidden="true">
+<p>The permutahedral and Peterson varieties are subvarieties of the flag variety defined by how a fixed matrix acts on the components of a flag.  As subvarieties of the flag variety, their cohomology classes (which are the same) have a positive expansion in the basis of Schubert classes.  In a remarkable series of papers, Nadeau and Tewari describe the coefficients of this expansion in terms of a parking (as in parking function) procedure on reduced words for the indexing permutation.  The subregular Peterson is a reducible scheme with the same cohomology class, and we describe the cohomology classes of the irreducible components (which must add up to the class described by Nadeau and Tewari) in terms of this parking procedure.  This is joint work with Lucas Gagnon (USC) and Carole Zhuang (WUSTL).</p>
 </div>
 
 

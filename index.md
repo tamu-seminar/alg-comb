@@ -27,7 +27,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | January 23, 2026  |         |       |       |
 | January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>, Joint with [Geometry](https://tamu-seminar.github.io/geometry/) and [Noncommutative Geometry](https://tamu-seminar.github.io/noncommutative-geometry/) Seminars    |
 | February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
-| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
+| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 |**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Note special day and time.|
 | February 27, 2026 |         |       |       |
@@ -74,6 +74,20 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 
 <div id="woo" style="display:none;" aria-hidden="true">
 <p>The permutahedral and Peterson varieties are subvarieties of the flag variety defined by how a fixed matrix acts on the components of a flag.  As subvarieties of the flag variety, their cohomology classes (which are the same) have a positive expansion in the basis of Schubert classes.  In a remarkable series of papers, Nadeau and Tewari describe the coefficients of this expansion in terms of a parking (as in parking function) procedure on reduced words for the indexing permutation.  The subregular Peterson is a reducible scheme with the same cohomology class, and we describe the cohomology classes of the irreducible components (which must add up to the class described by Nadeau and Tewari) in terms of this parking procedure.  This is joint work with Lucas Gagnon (USC) and Carole Zhuang (WUSTL).</p>
+</div>
+
+<div id="dorpalen-barry" style="display:none;" aria-hidden="true">
+<p>Given a matroid $M$ and a building set $B$ on its lattice of flats, we prove that
+the associated nested set complex $N$ is shellable. This generalizes a classical
+result of Bj¨orner that the order complex of the lattice of flats of a matroid
+is shellable (the case when $B$ is the maximum builiding set), and strengthens
+a result of Feichtner--Müller that $N$ is Cohen-Macaulay for arbitrary $B$. Our
+approach is geometric in nature utilizing the Bergman fan $\Sigma_{M,B}$, and is inspired
+by Bruggesser and Mani’s line shellings of polytopes. We prove that, given a
+normal complex $P$ for $\Sigma_{M,B}$, as introduced by Nathanson--Ross, and a
+particularly well-behaved vector ω, the order of the vertices of P induced by ω
+is a shelling order for $N$. This is joint work with Spencer Backman, Anastasia
+Nathanson, Ethan Partida, and Noah Prime.</p>
 </div>
 
 

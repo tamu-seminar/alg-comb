@@ -30,7 +30,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
 |**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su')">View Abstract</button>  <br><br> Note special day and time!|
-| February 27, 2026 |         |       |       |
+| February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/)        | TBA      | TBA      |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
 | March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |

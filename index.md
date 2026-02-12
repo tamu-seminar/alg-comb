@@ -28,7 +28,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>, Joint with [Geometry](https://tamu-seminar.github.io/geometry/) and [Noncommutative Geometry](https://tamu-seminar.github.io/noncommutative-geometry/) Seminars    |
 | February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
-| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |   TBA    |   TBA    |
+| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |  Fiber bundles of toric arrangements   |   <button type="button" class="abstract-link" onclick="showAbstract('bibby')">View Abstract</button>    |
 |**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su')">View Abstract</button>  <br><br> Note special day and time!|
 | February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | TBA      | TBA      |
 | March 6, 2026     |         |       |       |
@@ -92,6 +92,10 @@ Nathanson, Ethan Partida, and Noah Prime.</p>
 
 <div id="su" style="display:none;" aria-hidden="true">
 <p>Each day your actions generate data, and that data is being used at some cost to your privacy. "Differentially private" algorithms seek to protect the privacy of individual data, often by injecting some randomness. Such mechanisms have been used by Apple, Google, Uber, and the US Census Bureau. I'll describe how such algorithms work and discuss recent efforts to quantify how much randomness is needed to guarantee privacy but still give accurate answers. Surprisingly, this analysis involves the geometry of sets positioned in space in clever ways.</p>
+</div>
+
+<div id="bibby" style="display:none;" aria-hidden="true">
+<p>We present a combinatorial analysis of fiber bundles of generalized configuration spaces on connected abelian Lie groups and discuss topological consequences. These bundles are akin to those of Fadell-Neuwirth for configuration spaces, and their existence is detected by a combinatorial property of an associated finite partially ordered set. Of particular focus is the case of a toric arrangement: a finite collection of codimension-one subtori in a complex torus. If the intersection pattern of the subtori satisfies the combinatorial condition of supersolvability, the complement of the toric arrangement sits atop a tower of fiber bundles. This structure provides insight into topological invariants of these toric arrangement complements, including the homotopy groups, cohomology, and topological complexity. Based on joint work with Daniel C. Cohen and Emanuele Delucchi.</p>
 </div>
 
 <!-- Code that makes the pop-up windows -->

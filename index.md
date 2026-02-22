@@ -30,7 +30,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |  Fiber bundles of toric arrangements   |   <button type="button" class="abstract-link" onclick="showAbstract('bibby')">View Abstract</button>    |
 |**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su')">View Abstract</button>  <br><br> Note special day and time!|
-| February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | TBA      | TBA      |
+| February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | Weak coarse Menger property of minor-closed families      | <button type="button" class="abstract-link" onclick="showAbstract('liu')">View Abstract</button>     |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
 | March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |
@@ -97,6 +97,11 @@ Nathanson, Ethan Partida, and Noah Prime.</p>
 <div id="bibby" style="display:none;" aria-hidden="true">
 <p>We present a combinatorial analysis of fiber bundles of generalized configuration spaces on connected abelian Lie groups and discuss topological consequences. These bundles are akin to those of Fadell-Neuwirth for configuration spaces, and their existence is detected by a combinatorial property of an associated finite partially ordered set. Of particular focus is the case of a toric arrangement: a finite collection of codimension-one subtori in a complex torus. If the intersection pattern of the subtori satisfies the combinatorial condition of supersolvability, the complement of the toric arrangement sits atop a tower of fiber bundles. This structure provides insight into topological invariants of these toric arrangement complements, including the homotopy groups, cohomology, and topological complexity. Based on joint work with Daniel C. Cohen and Emanuele Delucchi.</p>
 </div>
+
+<div id="liu" style="display:none;" aria-hidden="true">
+<p>Menger's theorem, arguably one of the most important theorems in graph theory, states that for any subsets $X$ and $Y$ of vertices of a graph, either there exist $k$ disjoint paths from $X$ to $Y$, or there exist a set of at most $k-1$ vertices hitting all such paths. We say that a graph or a graph class has the weak coarse Menger property if there exist functions $f$ and $g$ such that for any subsets $X$ and $Y$ of vertices and integers $k$ and $r$, either there exist $k$ paths from $X$ to $Y$ with pairwise at distance at least $r$, or there exists a union of $f(k,r)$ balls of radius $g(k,r)$ hitting all paths from $X$ to $Y$. Nguyen, Scott and Seymour proved that the class of all graphs does not have the weak coarse Menger property and asked whether minor-closed families have it. We answer this question affirmatively in a stronger form by showing that rooted fat $K_2$-minors have the coarse Erdos-Posa property in minor-closed families. Our result extends to every length space quasi-isometric to a locally finite infinite graph with an excluded finite minor, such as complete Riemannian surfaces of finite Euler genus, metric graphs with an excluded finite minor, string graphs, and Cayley graphs of finitely generated minor-excluded groups.</p>
+</div>
+
 
 <!-- Code that makes the pop-up windows -->
 

@@ -29,7 +29,8 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |  Fiber bundles of toric arrangements   |   <button type="button" class="abstract-link" onclick="showAbstract('bibby')">View Abstract</button>    |
-|**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su')">View Abstract</button>  <br><br> Note special day and time!|
+|**February 26, 2026** at **4pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | 100 years of Sperner’s Lemma: proofs, generalizations, and applications | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su1')">View Abstract</button>  <br><br> Note special day and time!|
+|**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su2')">View Abstract</button>  <br><br> Note special day and time!|
 | February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | TBA      | TBA      |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
@@ -90,7 +91,11 @@ is a shelling order for $N$. This is joint work with Spencer Backman, Anastasia
 Nathanson, Ethan Partida, and Noah Prime.</p>
 </div>
 
-<div id="su" style="display:none;" aria-hidden="true">
+<div id="su1" style="display:none;" aria-hidden="true">
+<p>Sperner’s lemma is a simple combinatorial result that is surprisingly powerful and useful—bringing together ideas in combinatorics, geometry, and topology while attracting interest from economists and game theorists. I’ll explain why, show some old and new proofs, and present some recent generalizations with diverse applications.</p>
+</div>
+
+<div id="su2" style="display:none;" aria-hidden="true">
 <p>Each day your actions generate data, and that data is being used at some cost to your privacy. "Differentially private" algorithms seek to protect the privacy of individual data, often by injecting some randomness. Such mechanisms have been used by Apple, Google, Uber, and the US Census Bureau. I'll describe how such algorithms work and discuss recent efforts to quantify how much randomness is needed to guarantee privacy but still give accurate answers. Surprisingly, this analysis involves the geometry of sets positioned in space in clever ways.</p>
 </div>
 

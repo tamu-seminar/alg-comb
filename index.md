@@ -34,7 +34,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | Weak coarse Menger property of minor-closed families      | <button type="button" class="abstract-link" onclick="showAbstract('liu')">View Abstract</button>     |
 | March 6, 2026     |         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
-| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |
+| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |    Invariant subalgebras of Orlik–Solomon algebras in type A    |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>      |
 | March 27, 2026    |         |       |       |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |

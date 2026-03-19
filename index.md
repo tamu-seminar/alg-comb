@@ -109,7 +109,7 @@ Nathanson, Ethan Partida, and Noah Prime.</p>
 
 <div id="karn" style="display:none;" aria-hidden="true">
 <p>
-We provide a presentation in terms of generators and relations for the invariant subring of the Orlik–Solomon algebra of the rank-n type A reflection arrangement under the action of the symmetric group of permutations of {1,2,...,n}. Our results may be interpreted as a presentation of the cohomology ring of the configuration space of red points and one blue point in the plane. While the result is algebraic with a topological interpretation, techniques utilized in the proof are very combinatorial. 
+We provide a presentation in terms of generators and relations for the invariant subring of the Orlik–Solomon algebra of the rank-n type A reflection arrangement under the action of the symmetric group of permutations of $\{1,2,...,n\}$. Our results may be interpreted as a presentation of the cohomology ring of the configuration space of red points and one blue point in the plane. While the result is algebraic with a topological interpretation, techniques utilized in the proof are very combinatorial. 
 </p>
 </div>
 

@@ -32,10 +32,10 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 |**February 26, 2026** at **4pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | 100 years of Sperner’s Lemma: proofs, generalizations, and applications | [Departmental Colloquium](https://calendar.tamu.edu/math/event/375982-geller-lecture-colloquium-dr-francis-su), <button type="button" class="abstract-link" onclick="showAbstract('su1')">View Abstract</button>  <br><br> Note special day, time, and location!|
 |**February 26, 2026** at **6pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su2')">View Abstract</button>  <br><br> Note special day, time, and location!|
 | February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | Weak coarse Menger property of minor-closed families      | <button type="button" class="abstract-link" onclick="showAbstract('liu')">View Abstract</button>     |
-| March 6, 2026     |         |       |       |
+| March 6, 2026     |No seminar         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
 | March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |
-| March 27, 2026    |         |       |       |
+| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  |       |       |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
 | April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    TBA   |  TBA     |

@@ -35,7 +35,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | March 6, 2026     |No seminar         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
 | March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |    Invariant subalgebras of Orlik–Solomon algebras in type A    |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>      |
-| March 27, 2026    | March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  |       |       |        |       |       |
+| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  |       |       |        |       |       |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
 | April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    TBA   |  TBA     |

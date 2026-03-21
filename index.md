@@ -35,7 +35,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | March 6, 2026     |No seminar         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
 | March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |    Invariant subalgebras of Orlik–Solomon algebras in type A    |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>      |
-| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  |       |       |        |       |       |
+| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  | Two invariants of type-preserving representations and applications  | <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>     |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
 | April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    TBA   |  TBA     |
@@ -110,6 +110,12 @@ Nathanson, Ethan Partida, and Noah Prime.</p>
 <div id="karn" style="display:none;" aria-hidden="true">
 <p>
 We provide a presentation in terms of generators and relations for the invariant subring of the Orlik–Solomon algebra of the rank-n type A reflection arrangement under the action of the symmetric group of permutations of $\{1,2,...,n\}$. Our results may be interpreted as a presentation of the cohomology ring of the configuration space of red points and one blue point in the plane. While the result is algebraic with a topological interpretation, techniques utilized in the proof are very combinatorial. 
+</p>
+</div>
+
+<div id="ryu" style="display:none;" aria-hidden="true">
+<p>
+We study the relative $PSL(2, R)$-character variety consisting of the conjugacy classes of type-preserving representations, that are the surface group representations with parabolic peripheral monodromy. In this talk, I will introduce two discrete invariants of type-preserving representations that characterize the connected components of the relative character variety. This characterization gives an explicit formula for the number of connected components in terms of genus $g$ and the number of punctures $p$. As an application, I will show the existence of totally hyperbolic representations, giving a negative answer to a question of Bowditch. 
 </p>
 </div>
 

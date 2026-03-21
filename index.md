@@ -102,6 +102,11 @@ Nathanson, Ethan Partida, and Noah Prime.</p>
 <p>Menger's theorem, arguably one of the most important theorems in graph theory, states that for any subsets $X$ and $Y$ of vertices of a graph, either there exist $k$ disjoint paths from $X$ to $Y$, or there exist a set of at most $k-1$ vertices hitting all such paths. We say that a graph or a graph class has the weak coarse Menger property if there exist functions $f$ and $g$ such that for any subsets $X$ and $Y$ of vertices and integers $k$ and $r$, either there exist $k$ paths from $X$ to $Y$ with pairwise at distance at least $r$, or there exists a union of $f(k,r)$ balls of radius $g(k,r)$ hitting all paths from $X$ to $Y$. Nguyen, Scott and Seymour proved that the class of all graphs does not have the weak coarse Menger property and asked whether minor-closed families have it. We answer this question affirmatively in a stronger form by showing that rooted fat $K_2$-minors have the coarse Erdos-Posa property in minor-closed families. Our result extends to every length space quasi-isometric to a locally finite infinite graph with an excluded finite minor, such as complete Riemannian surfaces of finite Euler genus, metric graphs with an excluded finite minor, string graphs, and Cayley graphs of finitely generated minor-excluded groups.</p>
 </div>
 
+<div id="ryu" style="display:none;" aria-hidden="true">
+<p>We study the relative $PSL(2, R)$-character variety consisting of the conjugacy classes of type-preserving representations, that are the surface group representations with parabolic peripheral monodromy.
+In this talk, I will introduce two discrete invariants of type-preserving representations that characterize the connected components of the relative character variety. This characterization gives an explicit formula for the number of connected components in terms of genus $g$ and the number of punctures $p$. As an application, I will show the existence of totally hyperbolic representations, giving a negative answer to a question of Bowditch.</p>
+</div>
+
 
 <!-- Code that makes the pop-up windows -->
 

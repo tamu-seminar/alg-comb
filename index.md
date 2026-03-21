@@ -29,12 +29,13 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
 | February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
 | February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |  Fiber bundles of toric arrangements   |   <button type="button" class="abstract-link" onclick="showAbstract('bibby')">View Abstract</button>    |
-|**February 26, 2026** at **6pm** | [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su')">View Abstract</button>  <br><br> Note special day and time!|
+|**February 26, 2026** at **4pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | 100 years of Sperner’s Lemma: proofs, generalizations, and applications | [Departmental Colloquium](https://calendar.tamu.edu/math/event/375982-geller-lecture-colloquium-dr-francis-su), <button type="button" class="abstract-link" onclick="showAbstract('su1')">View Abstract</button>  <br><br> Note special day, time, and location!|
+|**February 26, 2026** at **6pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su2')">View Abstract</button>  <br><br> Note special day, time, and location!|
 | February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | Weak coarse Menger property of minor-closed families      | <button type="button" class="abstract-link" onclick="showAbstract('liu')">View Abstract</button>     |
-| March 6, 2026     |         |       |       |
+| March 6, 2026     |No seminar         |       |       |
 | March 13, 2026    |No seminar| |Spring Break  |
-| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |       |       |
-| March 27, 2026    |         |       |       |
+| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |    Invariant subalgebras of Orlik–Solomon algebras in type A    |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>      |
+| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  |       |       |        |       |       |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
 | April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    TBA   |  TBA     |
@@ -90,7 +91,11 @@ is a shelling order for $N$. This is joint work with Spencer Backman, Anastasia
 Nathanson, Ethan Partida, and Noah Prime.</p>
 </div>
 
-<div id="su" style="display:none;" aria-hidden="true">
+<div id="su1" style="display:none;" aria-hidden="true">
+<p>Sperner’s lemma is a simple combinatorial result that is surprisingly powerful and useful—bringing together ideas in combinatorics, geometry, and topology while attracting interest from economists and game theorists. I’ll explain why, show some old and new proofs, and present some recent generalizations with diverse applications.</p>
+</div>
+
+<div id="su2" style="display:none;" aria-hidden="true">
 <p>Each day your actions generate data, and that data is being used at some cost to your privacy. "Differentially private" algorithms seek to protect the privacy of individual data, often by injecting some randomness. Such mechanisms have been used by Apple, Google, Uber, and the US Census Bureau. I'll describe how such algorithms work and discuss recent efforts to quantify how much randomness is needed to guarantee privacy but still give accurate answers. Surprisingly, this analysis involves the geometry of sets positioned in space in clever ways.</p>
 </div>
 
@@ -102,9 +107,10 @@ Nathanson, Ethan Partida, and Noah Prime.</p>
 <p>Menger's theorem, arguably one of the most important theorems in graph theory, states that for any subsets $X$ and $Y$ of vertices of a graph, either there exist $k$ disjoint paths from $X$ to $Y$, or there exist a set of at most $k-1$ vertices hitting all such paths. We say that a graph or a graph class has the weak coarse Menger property if there exist functions $f$ and $g$ such that for any subsets $X$ and $Y$ of vertices and integers $k$ and $r$, either there exist $k$ paths from $X$ to $Y$ with pairwise at distance at least $r$, or there exists a union of $f(k,r)$ balls of radius $g(k,r)$ hitting all paths from $X$ to $Y$. Nguyen, Scott and Seymour proved that the class of all graphs does not have the weak coarse Menger property and asked whether minor-closed families have it. We answer this question affirmatively in a stronger form by showing that rooted fat $K_2$-minors have the coarse Erdos-Posa property in minor-closed families. Our result extends to every length space quasi-isometric to a locally finite infinite graph with an excluded finite minor, such as complete Riemannian surfaces of finite Euler genus, metric graphs with an excluded finite minor, string graphs, and Cayley graphs of finitely generated minor-excluded groups.</p>
 </div>
 
-<div id="ryu" style="display:none;" aria-hidden="true">
-<p>We study the relative $PSL(2, R)$-character variety consisting of the conjugacy classes of type-preserving representations, that are the surface group representations with parabolic peripheral monodromy.
-In this talk, I will introduce two discrete invariants of type-preserving representations that characterize the connected components of the relative character variety. This characterization gives an explicit formula for the number of connected components in terms of genus $g$ and the number of punctures $p$. As an application, I will show the existence of totally hyperbolic representations, giving a negative answer to a question of Bowditch.</p>
+<div id="karn" style="display:none;" aria-hidden="true">
+<p>
+We provide a presentation in terms of generators and relations for the invariant subring of the Orlik–Solomon algebra of the rank-n type A reflection arrangement under the action of the symmetric group of permutations of $\{1,2,...,n\}$. Our results may be interpreted as a presentation of the cohomology ring of the configuration space of red points and one blue point in the plane. While the result is algebraic with a topological interpretation, techniques utilized in the proof are very combinatorial. 
+</p>
 </div>
 
 

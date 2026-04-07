@@ -38,7 +38,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  | Two invariants of type-preserving representations and applications  | <button type="button" class="abstract-link" onclick="showAbstract('ryu')">View Abstract</button>     |
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
-| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    TBA   |  TBA     |
+| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    Braids, Quantum Groups, Hopf Algebras   |  <button type="button" class="abstract-link" onclick="showAbstract('witherspoon')">View Abstract</button>    |
 | April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | TBA |  TBA     |
 | April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
 
@@ -116,6 +116,12 @@ We provide a presentation in terms of generators and relations for the invariant
 <div id="ryu" style="display:none;" aria-hidden="true">
 <p>
 We study the relative $PSL(2, R)$-character variety consisting of the conjugacy classes of type-preserving representations, that are the surface group representations with parabolic peripheral monodromy. In this talk, I will introduce two discrete invariants of type-preserving representations that characterize the connected components of the relative character variety. This characterization gives an explicit formula for the number of connected components in terms of genus $g$ and the number of punctures $p$. As an application, I will show the existence of totally hyperbolic representations, giving a negative answer to a question of Bowditch. 
+</p>
+</div>
+
+<div id="witherspoon" style="display:none;" aria-hidden="true">
+<p>
+Vector spaces can come equipped with braiding maps, and multiple copies of a vector space may be braided together. Such braided vector spaces underlie a large class of rings called Nichols algebras. These include many standard examples such as polynomial rings, exterior algebras, and quantized versions of these. Nichols algebras appear for instance in the cohomology of flag manifolds, and they are foundational to many quantum groups and Hopf algebras. In this talk, we will introduce all of these notions. Then we will look at recent homological conjectures and results about finite dimensional quantum groups and Hopf algebras for which the braiding is essential.
 </p>
 </div>
 

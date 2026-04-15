@@ -39,7 +39,7 @@ The organizers are [Chun-Hung Liu](https://people.tamu.edu/~chliu/), [Trevor Kar
 | April 3, 2026     |No seminar|| Reading Day   |
 | April 10, 2026    | No seminar         |       |       |
 | April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    Braids, Quantum Groups, Hopf Algebras   |  <button type="button" class="abstract-link" onclick="showAbstract('witherspoon')">View Abstract</button>    |
-| April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | TBA |  TBA     |
+| April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | Combinatorial Expansion Formulas for Orbifold-Type Generalized Cluster Algebras |   <button type="button" class="abstract-link" onclick="showAbstract('kelley')">View Abstract</button>      |
 | April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
 
 
@@ -125,6 +125,11 @@ Vector spaces can come equipped with braiding maps, and multiple copies of a vec
 </p>
 </div>
 
+<div id="kelley" style="display:none;" aria-hidden="true">
+<p>
+Generalized cluster algebras, which were introduced by Chekhov and Shapiro in 2011, are a natural generalization of the ordinary cluster algebras of Fomin and Zelevinsky where the standard binomial exchange relations are replaced with polynomial exchange relations. These algebras retain many of the hallmark features of ordinary cluster algebras, including the Laurent Phenomenon and positivity. Triangulated orbifolds provide a geometric model for one important subtype of generalized cluster algebras. In this talk, I will describe how some of the combinatorial tools used to analyze cluster algebras from surfaces extend naturally to the setting of orbifold-type generalized cluster algebras and how these tools can be used to investigate structural questions about bases. This talk is based on joint work with Esther Banaian, Wonwoo Kang, Ezgi Kantarcı Oğuz, and Emine Yıldırım.
+</p>
+</div>
 
 <!-- Code that makes the pop-up windows -->
 

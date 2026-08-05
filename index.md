@@ -21,29 +21,23 @@ This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 
 The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
-
-| Date              | Speaker | Title | Other |
-|-------------------|---------|-------|-------|
-| January 16, 2026  | No seminar        |       |       |
-| January 23, 2026  | No seminar        |       |       |
-| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>, Joint with [Geometry](https://tamu-seminar.github.io/geometry/) and [Noncommutative Geometry](https://tamu-seminar.github.io/noncommutative-geometry/) Seminars    |
-| February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
-| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
-| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |  Fiber bundles of toric arrangements   |   <button type="button" class="abstract-link" onclick="showAbstract('bibby')">View Abstract</button>    |
-|**February 26, 2026** at **4pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | 100 years of Sperner’s Lemma: proofs, generalizations, and applications | [Departmental Colloquium](https://calendar.tamu.edu/math/event/375982-geller-lecture-colloquium-dr-francis-su), <button type="button" class="abstract-link" onclick="showAbstract('su1')">View Abstract</button>  <br><br> Note special day, time, and location!|
-|**February 26, 2026** at **6pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su2')">View Abstract</button>  <br><br> Note special day, time, and location!|
-| February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | Weak coarse Menger property of minor-closed families      | <button type="button" class="abstract-link" onclick="showAbstract('liu')">View Abstract</button>     |
-| March 6, 2026     |No seminar         |       |       |
-| March 13, 2026    |No seminar| |Spring Break  |
-| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |    Invariant subalgebras of Orlik–Solomon algebras in type A    |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>      |
-| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  | Two invariants of type-preserving representations and applications  | <button type="button" class="abstract-link" onclick="showAbstract('ryu')">View Abstract</button>     |
-| April 3, 2026     |No seminar|| Reading Day   |
-| April 10, 2026    | No seminar         |       |       |
-| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    Braids, Quantum Groups, Hopf Algebras   |  <button type="button" class="abstract-link" onclick="showAbstract('witherspoon')">View Abstract</button>    |
-| April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | Combinatorial Expansion Formulas for Orbifold-Type Generalized Cluster Algebras |   <button type="button" class="abstract-link" onclick="showAbstract('kelley')">View Abstract</button>      |
-| April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
-
-
+| Date              | Speaker | Title | Other                           |
+|-------------------|---------|-------|---------------------------------|
+| August 28, 2026   |         |       |                                 |
+| September 4, 2026 |         |       |                                 |
+| September 11, 2026|         |       |                                 |
+| September 18, 2026|         |       |                                 |
+| September 25, 2026|         |       |                                 |
+| October 2, 2026   |         |       |                                 |
+| October 9, 2026   |         |       |                                 |
+| October 16, 2026  |         |       |                                 |
+| October 23, 2026  |         |       |                                 |
+| October 30, 2026  |         |       |                                 |
+| November 6, 2026  |         |       |                                 |
+| November 13, 2026 |         |       |                                 |
+| November 20, 2026 |         |       |                                 |
+| November 27, 2026 |         |       | No seminar, Thanksgiving.       |
+| December 4, 2026  |         |       | No seminar, reading day/finals. |
 
 # Past Semesters
 - [Spring 2026](2026_1.md)
@@ -56,80 +50,6 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 - [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (not current!)
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!-- Abstract content -->
-
-<div id="dicerbo" style="display:none;" aria-hidden="true">
-<p>In this talk, I will present a detailed study of the curvature and symplectic asphericity properties of symmetric products of curves. I show that these spaces can be used to answer nuanced questions arising in the study of closed Riemannian manifolds with positive scalar curvature. For example, symmetric products of curves sharply distinguish between two distinct notions of macroscopic dimension introduced by Gromov and Dranishnikov. As a natural generalization of this circle of ideas, I will also address the Gromov–Lawson and Gromov conjectures in the Kaehler projective setting and draw new connections between the theories of the minimal model, positivity in algebraic geometry, and macroscopic dimensions. This is joint work with Alexander Dranishnikov and Ekansh Jauhari.</p>
-</div>
-
-<div id="woo" style="display:none;" aria-hidden="true">
-<p>The permutahedral and Peterson varieties are subvarieties of the flag variety defined by how a fixed matrix acts on the components of a flag.  As subvarieties of the flag variety, their cohomology classes (which are the same) have a positive expansion in the basis of Schubert classes.  In a remarkable series of papers, Nadeau and Tewari describe the coefficients of this expansion in terms of a parking (as in parking function) procedure on reduced words for the indexing permutation.  The subregular Peterson is a reducible scheme with the same cohomology class, and we describe the cohomology classes of the irreducible components (which must add up to the class described by Nadeau and Tewari) in terms of this parking procedure.  This is joint work with Lucas Gagnon (USC) and Carole Zhuang (WUSTL).</p>
-</div>
-
-<div id="dorpalen-barry" style="display:none;" aria-hidden="true">
-<p>Given a matroid $M$ and a building set $B$ on its lattice of flats, we prove that
-the associated nested set complex $N$ is shellable. This generalizes a classical
-result of Bj¨orner that the order complex of the lattice of flats of a matroid
-is shellable (the case when $B$ is the maximum builiding set), and strengthens
-a result of Feichtner--Müller that $N$ is Cohen-Macaulay for arbitrary $B$. Our
-approach is geometric in nature utilizing the Bergman fan $\Sigma_{M,B}$, and is inspired
-by Bruggesser and Mani’s line shellings of polytopes. We prove that, given a
-normal complex $P$ for $\Sigma_{M,B}$, as introduced by Nathanson--Ross, and a
-particularly well-behaved vector ω, the order of the vertices of P induced by ω
-is a shelling order for $N$. This is joint work with Spencer Backman, Anastasia
-Nathanson, Ethan Partida, and Noah Prime.</p>
-</div>
-
-<div id="su1" style="display:none;" aria-hidden="true">
-<p>Sperner’s lemma is a simple combinatorial result that is surprisingly powerful and useful—bringing together ideas in combinatorics, geometry, and topology while attracting interest from economists and game theorists. I’ll explain why, show some old and new proofs, and present some recent generalizations with diverse applications.</p>
-</div>
-
-<div id="su2" style="display:none;" aria-hidden="true">
-<p>Each day your actions generate data, and that data is being used at some cost to your privacy. "Differentially private" algorithms seek to protect the privacy of individual data, often by injecting some randomness. Such mechanisms have been used by Apple, Google, Uber, and the US Census Bureau. I'll describe how such algorithms work and discuss recent efforts to quantify how much randomness is needed to guarantee privacy but still give accurate answers. Surprisingly, this analysis involves the geometry of sets positioned in space in clever ways.</p>
-</div>
-
-<div id="bibby" style="display:none;" aria-hidden="true">
-<p>We present a combinatorial analysis of fiber bundles of generalized configuration spaces on connected abelian Lie groups and discuss topological consequences. These bundles are akin to those of Fadell-Neuwirth for configuration spaces, and their existence is detected by a combinatorial property of an associated finite partially ordered set. Of particular focus is the case of a toric arrangement: a finite collection of codimension-one subtori in a complex torus. If the intersection pattern of the subtori satisfies the combinatorial condition of supersolvability, the complement of the toric arrangement sits atop a tower of fiber bundles. This structure provides insight into topological invariants of these toric arrangement complements, including the homotopy groups, cohomology, and topological complexity. Based on joint work with Daniel C. Cohen and Emanuele Delucchi.</p>
-</div>
-
-<div id="liu" style="display:none;" aria-hidden="true">
-<p>Menger's theorem, arguably one of the most important theorems in graph theory, states that for any subsets $X$ and $Y$ of vertices of a graph, either there exist $k$ disjoint paths from $X$ to $Y$, or there exist a set of at most $k-1$ vertices hitting all such paths. We say that a graph or a graph class has the weak coarse Menger property if there exist functions $f$ and $g$ such that for any subsets $X$ and $Y$ of vertices and integers $k$ and $r$, either there exist $k$ paths from $X$ to $Y$ with pairwise at distance at least $r$, or there exists a union of $f(k,r)$ balls of radius $g(k,r)$ hitting all paths from $X$ to $Y$. Nguyen, Scott and Seymour proved that the class of all graphs does not have the weak coarse Menger property and asked whether minor-closed families have it. We answer this question affirmatively in a stronger form by showing that rooted fat $K_2$-minors have the coarse Erdos-Posa property in minor-closed families. Our result extends to every length space quasi-isometric to a locally finite infinite graph with an excluded finite minor, such as complete Riemannian surfaces of finite Euler genus, metric graphs with an excluded finite minor, string graphs, and Cayley graphs of finitely generated minor-excluded groups.</p>
-</div>
-
-<div id="karn" style="display:none;" aria-hidden="true">
-<p>
-We provide a presentation in terms of generators and relations for the invariant subring of the Orlik–Solomon algebra of the rank-n type A reflection arrangement under the action of the symmetric group of permutations of $\{1,2,...,n\}$. Our results may be interpreted as a presentation of the cohomology ring of the configuration space of red points and one blue point in the plane. While the result is algebraic with a topological interpretation, techniques utilized in the proof are very combinatorial. 
-</p>
-</div>
-
-<div id="ryu" style="display:none;" aria-hidden="true">
-<p>
-We study the relative $PSL(2, R)$-character variety consisting of the conjugacy classes of type-preserving representations, that are the surface group representations with parabolic peripheral monodromy. In this talk, I will introduce two discrete invariants of type-preserving representations that characterize the connected components of the relative character variety. This characterization gives an explicit formula for the number of connected components in terms of genus $g$ and the number of punctures $p$. As an application, I will show the existence of totally hyperbolic representations, giving a negative answer to a question of Bowditch. 
-</p>
-</div>
-
-<div id="witherspoon" style="display:none;" aria-hidden="true">
-<p>
-Vector spaces can come equipped with braiding maps, and multiple copies of a vector space may be braided together. Such braided vector spaces underlie a large class of rings called Nichols algebras. These include many standard examples such as polynomial rings, exterior algebras, and quantized versions of these. Nichols algebras appear for instance in the cohomology of flag manifolds, and they are foundational to many quantum groups and Hopf algebras. In this talk, we will introduce all of these notions. Then we will look at recent homological conjectures and results about finite dimensional quantum groups and Hopf algebras for which the braiding is essential.
-</p>
-</div>
-
-<div id="kelley" style="display:none;" aria-hidden="true">
-<p>
-Generalized cluster algebras, which were introduced by Chekhov and Shapiro in 2011, are a natural generalization of the ordinary cluster algebras of Fomin and Zelevinsky where the standard binomial exchange relations are replaced with polynomial exchange relations. These algebras retain many of the hallmark features of ordinary cluster algebras, including the Laurent Phenomenon and positivity. Triangulated orbifolds provide a geometric model for one important subtype of generalized cluster algebras. In this talk, I will describe how some of the combinatorial tools used to analyze cluster algebras from surfaces extend naturally to the setting of orbifold-type generalized cluster algebras and how these tools can be used to investigate structural questions about bases. This talk is based on joint work with Esther Banaian, Wonwoo Kang, Ezgi Kantarcı Oğuz, and Emine Yıldırım.
-</p>
-</div>
 
 <!-- Code that makes the pop-up windows -->
 

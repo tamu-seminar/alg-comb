@@ -22,23 +22,27 @@ This seminar meets on Fridays 3:00-4:00 PM in Blocker 302.
 The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/).
 
 
-| Date              | Speaker | Title | Other                           |
-|-------------------|---------|-------|---------------------------------|
-| August 28, 2026   |         |       |                                 |
-| September 4, 2026 |         |       |                                 |
-| September 11, 2026|         |       |                                 |
-| September 18, 2026|         |       |                                 |
-| September 25, 2026|         |       |                                 |
-| October 2, 2026   |         |       |                                 |
-| October 9, 2026   |         |       |                                 |
-| October 16, 2026  |         |       |                                 |
-| October 23, 2026  |         |       |                                 |
-| October 30, 2026  |         |       |                                 |
-| November 6, 2026  |         |       |                                 |
-| November 13, 2026 |         |       |                                 |
-| November 20, 2026 |         |       |                                 |
-| November 27, 2026 |         |       | No seminar, Thanksgiving        |
-| December 4, 2026  |         |       | No seminar, reading day         |
+| Date              | Speaker | Title | Other |
+|-------------------|---------|-------|-------|
+| January 16, 2026  | No seminar        |       |       |
+| January 23, 2026  | No seminar        |       |       |
+| January 30, 2026  | [Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) (UF)     |  Curvature, Macroscopic Dimensions, and Symmetric Product of Curves     |  <button type="button" class="abstract-link" onclick="showAbstract('dicerbo')">View Abstract</button>, Joint with [Geometry](https://tamu-seminar.github.io/geometry/) and [Noncommutative Geometry](https://tamu-seminar.github.io/noncommutative-geometry/) Seminars    |
+| February 6, 2026 <br><br>**Cancelled** | [Alexander Woo](https://www.uidaho.edu/people/awoo) (University of Idaho)        |  Schubert expansions of the components of the subregular Peterson  | <button type="button" class="abstract-link" onclick="showAbstract('woo')">View Abstract</button>   |
+| February 13, 2026 | [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/) (TAMU)        |   Line Shellings of Geometric Lattices    |   <button type="button" class="abstract-link" onclick="showAbstract('dorpalen-barry')">View Abstract</button> <br><br> [Happy GALENtines Day](https://en.wikipedia.org/wiki/Galentine%27s_Day_(observance))    |
+| February 20, 2026 | [Christin Bibby](https://www.math.lsu.edu/~bibby/) (LSU)    |  Fiber bundles of toric arrangements   |   <button type="button" class="abstract-link" onclick="showAbstract('bibby')">View Abstract</button>    |
+|**February 26, 2026** at **4pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | 100 years of Sperner’s Lemma: proofs, generalizations, and applications | [Departmental Colloquium](https://calendar.tamu.edu/math/event/375982-geller-lecture-colloquium-dr-francis-su), <button type="button" class="abstract-link" onclick="showAbstract('su1')">View Abstract</button>  <br><br> Note special day, time, and location!|
+|**February 26, 2026** at **6pm** in **Blocker 117**| [Francis Su](https://www.francissu.com/) (Harvey Mudd) | Randomness, Geometry, and Privacy | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), <button type="button" class="abstract-link" onclick="showAbstract('su2')">View Abstract</button>  <br><br> Note special day, time, and location!|
+| February 27, 2026 | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)        | Weak coarse Menger property of minor-closed families      | <button type="button" class="abstract-link" onclick="showAbstract('liu')">View Abstract</button>     |
+| March 6, 2026     |No seminar         |       |       |
+| March 13, 2026    |No seminar| |Spring Break  |
+| March 20, 2026    | [Trevor Karn](https://trevorkarn.github.io/) (TAMU)        |    Invariant subalgebras of Orlik–Solomon algebras in type A    |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>      |
+| March 27, 2026    |[Inyoung Ryu](https://sites.google.com/tamu.edu/inyoung/home)  | Two invariants of type-preserving representations and applications  | <button type="button" class="abstract-link" onclick="showAbstract('ryu')">View Abstract</button>     |
+| April 3, 2026     |No seminar|| Reading Day   |
+| April 10, 2026    | No seminar         |       |       |
+| April 17, 2026    | [Sarah Witherspoon](https://people.tamu.edu/~sjw/) (TAMU)  |    Braids, Quantum Groups, Hopf Algebras   |  <button type="button" class="abstract-link" onclick="showAbstract('witherspoon')">View Abstract</button>    |
+| April 24, 2026    | [Elizabeth Kelley](https://sites.google.com/view/elizabeth-kelley/home) (University of Oklahoma) | Combinatorial Expansion Formulas for Orbifold-Type Generalized Cluster Algebras |   <button type="button" class="abstract-link" onclick="showAbstract('kelley')">View Abstract</button>      |
+| April 25-26, 2026    |         |  [Combinatexas](https://sites.google.com/view/combinatexas-2026/home)     |       |
+
 
 
 # Past Semesters
@@ -115,6 +119,17 @@ We study the relative $PSL(2, R)$-character variety consisting of the conjugacy 
 </p>
 </div>
 
+<div id="witherspoon" style="display:none;" aria-hidden="true">
+<p>
+Vector spaces can come equipped with braiding maps, and multiple copies of a vector space may be braided together. Such braided vector spaces underlie a large class of rings called Nichols algebras. These include many standard examples such as polynomial rings, exterior algebras, and quantized versions of these. Nichols algebras appear for instance in the cohomology of flag manifolds, and they are foundational to many quantum groups and Hopf algebras. In this talk, we will introduce all of these notions. Then we will look at recent homological conjectures and results about finite dimensional quantum groups and Hopf algebras for which the braiding is essential.
+</p>
+</div>
+
+<div id="kelley" style="display:none;" aria-hidden="true">
+<p>
+Generalized cluster algebras, which were introduced by Chekhov and Shapiro in 2011, are a natural generalization of the ordinary cluster algebras of Fomin and Zelevinsky where the standard binomial exchange relations are replaced with polynomial exchange relations. These algebras retain many of the hallmark features of ordinary cluster algebras, including the Laurent Phenomenon and positivity. Triangulated orbifolds provide a geometric model for one important subtype of generalized cluster algebras. In this talk, I will describe how some of the combinatorial tools used to analyze cluster algebras from surfaces extend naturally to the setting of orbifold-type generalized cluster algebras and how these tools can be used to investigate structural questions about bases. This talk is based on joint work with Esther Banaian, Wonwoo Kang, Ezgi Kantarcı Oğuz, and Emine Yıldırım.
+</p>
+</div>
 
 <!-- Code that makes the pop-up windows -->
 

@@ -23,10 +23,10 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 
 | Date              | Speaker | Title | Other                           |
 |-------------------|---------|-------|---------------------------------|
-| August 28, 2026   |         |       |                                 |
-| September 4, 2026 | Frank Sottile (TAMU)        |       |                                 |
-| September 11, 2026|         |       |                                 |
-| September 18, 2026|         |       |                                 |
+| August 28, 2026   |         |       | No seminar                      |
+| September 4, 2026 |         |       | No seminar                      |
+| September 11, 2026|         |       | No seminar                      |
+| September 18, 2026|         |       | No seminar                      |
 | September 25, 2026|         |       |                                 |
 | October 2, 2026   |         |       |                                 |
 | October 9, 2026   |         |       |                                 |

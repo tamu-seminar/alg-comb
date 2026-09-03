@@ -29,7 +29,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | September 18, 2026|         |       | No seminar                      |
 | September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)|       |                                 |
 | October 2, 2026   |         |       |                                 |
-| October 9, 2026   |         |       |                                 |
+| October 9, 2026   | [Catherine Yan](https://people.tamu.edu/~huafei-yan/)        |       |                                 |
 | October 16, 2026  |         |       |                                 |
 | October 23, 2026  |         |       |                                 |
 | October 30, 2026  |         |       |                                 |

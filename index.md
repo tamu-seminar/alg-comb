@@ -30,7 +30,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)|       |                                 |
 | October 2, 2026   |         |       |                                 |
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
-| October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/)         |       |                                 |
+| October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/) (UW)         |       |                                 |
 | October 23, 2026  |         |       |                                 |
 | October 30, 2026  |         |       |                                 |
 | November 6, 2026  |         |       |                                 |

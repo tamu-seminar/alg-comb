@@ -64,11 +64,11 @@ that is 30 years old.
 In  this  talk,  I  will  describe  formulas,  in  both  ordinary  and
 equivariant  cohomology,   for  the   coefficients  that   arise  when
 multiplying a Schubert class by one pulled back from a Grassmannian of
-$$2$$-planes.   This  uses  geometric   constructions  including  a  novel
+$2$-planes.   This  uses  geometric   constructions  including  a  novel
 description of certain positroid varieties.  The cohomological formula
 identifies  each   coefficient  as   particular  Littlewood-Richardson
-coefficient on a Grassmannian of $$k$$-planes, for some $$k$$, not necessarily
-equal to $$2$$.
+coefficient on a Grassmannian of $k$-planes, for some $k$, not necessarily
+equal to $2$.
 
 This is joint work with Changzheng Li and Mingzhi Yang.</p>
 </div>

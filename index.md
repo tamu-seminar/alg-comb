@@ -27,7 +27,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | September 4, 2026 |         |       | No seminar                      |
 | September 11, 2026|         |       | No seminar                      |
 | September 18, 2026|         |       | No seminar                      |
-| September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)|       |                                 |
+| September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)| A Littlewood-Richardson Rule for $$2$$-Grassmannian Permutations      | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button>                                |
 | October 2, 2026   |         |       |                                 |
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
 | October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/) (UW)         |       |                                 |
@@ -50,6 +50,27 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 - [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (not current!)
 
 
+<!-- abstracts -->
+
+<div id="abs-sottile" style="display:none;" aria-hidden="true">
+<p>Giving  a  manifestly positive  formula  for  the structure  constants
+arising  from  the  multiplication  of two  Schubert  classes  in  the
+cohomology  of a  flag manifold  is  a long-standing  open problem  in
+algebraic combinatorics.   This has  only seen limited  progress. Most
+results have restrictions on both classes that are multiplied, and the
+only formula with a restriction on  only one is the Pieri-type formula
+that is 30 years old.
+
+In  this  talk,  I  will  describe  formulas,  in  both  ordinary  and
+equivariant  cohomology,   for  the   coefficients  that   arise  when
+multiplying a Schubert class by one pulled back from a Grassmannian of
+$$2$$-planes.   This  uses  geometric   constructions  including  a  novel
+description of certain positroid varieties.  The cohomological formula
+identifies  each   coefficient  as   particular  Littlewood-Richardson
+coefficient on a Grassmannian of $$k$$-planes, for some $$k$$, not necessarily
+equal to $$2$$.
+
+This is joint work with Changzheng Li and Mingzhi Yang.</p>
 
 <!-- Code that makes the pop-up windows -->
 

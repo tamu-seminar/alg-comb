@@ -27,7 +27,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | September 4, 2026 |         |       | No seminar                      |
 | September 11, 2026|         |       | No seminar                      |
 | September 18, 2026|         |       | No seminar                      |
-| September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)| A Littlewood-Richardson Rule for $$2$$-Grassmannian Permutations      | <button type="button" class="abstract-link" onclick="showAbstract('abs-sottile')">View Abstract</button>                                |
+| September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)| A Littlewood-Richardson Rule for $$2$$-Grassmannian Permutations      | <button type="button" class="abstract-link" onclick="showAbstract('sottile')">View Abstract</button>                               |
 | October 2, 2026   |         |       |                                 |
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
 | October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/) (UW)         |       |                                 |
@@ -52,7 +52,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 
 <!-- abstracts -->
 
-<div id="abs-sottile" style="display:none;" aria-hidden="true">
+<div id="sottile" style="display:none;" aria-hidden="true">
 <p>Giving  a  manifestly positive  formula  for  the structure  constants
 arising  from  the  multiplication  of two  Schubert  classes  in  the
 cohomology  of a  flag manifold  is  a long-standing  open problem  in
@@ -71,6 +71,7 @@ coefficient on a Grassmannian of $$k$$-planes, for some $$k$$, not necessarily
 equal to $$2$$.
 
 This is joint work with Changzheng Li and Mingzhi Yang.</p>
+</div>
 
 <!-- Code that makes the pop-up windows -->
 

@@ -32,7 +32,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
 | October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/) (UW)         |       |                                 |
 | October 23, 2026  |         |       |                                 |
-| October 30, 2026  |         |       |                                 |
+| October 30, 2026  |         |       | [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
 | November 6, 2026  |         |       |                                 |
 | November 13, 2026 |         |       |                                 |
 | November 20, 2026 |         |       |                                 |

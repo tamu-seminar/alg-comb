@@ -28,7 +28,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | September 11, 2026|         |       | No seminar                      |
 | September 18, 2026|         |       | No seminar                      |
 | September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)| A Littlewood-Richardson Rule for $$2$$-Grassmannian Permutations      | <button type="button" class="abstract-link" onclick="showAbstract('sottile')">View Abstract</button>                               |
-| October 2, 2026   |         |       |                                 |
+| October 2, 2026   | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)      |       |                                 |
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
 | October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/) (UW)         |       |                                 |
 | October 23, 2026  |         |       |                                 |

@@ -23,10 +23,10 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 
 | Date              | Speaker | Title | Other                           |
 |-------------------|---------|-------|---------------------------------|
-| August 28, 2026   |         |       | No seminar                      |
-| September 4, 2026 |         |       | No seminar                      |
-| September 11, 2026|         |       | No seminar                      |
-| September 18, 2026|         |       | No seminar                      |
+| August 28, 2026   |         |       | No seminar, promotion talks                      |
+| September 4, 2026 |         |       | No seminar, promotion talks                      |
+| September 11, 2026|         |       | No seminar, promotion talks                      |
+| September 18, 2026|         |       | No seminar, promotion talks                      |
 | September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)| A Littlewood-Richardson Rule for $$2$$-Grassmannian Permutations      | <button type="button" class="abstract-link" onclick="showAbstract('sottile')">View Abstract</button>                               |
 | October 2, 2026   | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)      |       |                                 |
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
@@ -36,8 +36,8 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | November 6, 2026  |         |       |                                 |
 | November 13, 2026 |         |       |                                 |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |
-| November 27, 2026 |         |       | No seminar, Thanksgiving.       |
-| December 4, 2026  |         |       | No seminar, reading day/finals. |
+| November 27, 2026 |         |       | No seminar, Thanksgiving       |
+| December 4, 2026  |         |       | No seminar, reading day/finals |
 
 # Past Semesters
 - [Spring 2026](2026_1.md)

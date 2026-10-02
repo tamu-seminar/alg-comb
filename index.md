@@ -29,7 +29,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | September 18, 2026|         |       | No seminar, promotion talks                      |
 | September 25, 2026|[Frank Sottile](https://franksottile.github.io/) (TAMU)| A Littlewood-Richardson Rule for $$2$$-Grassmannian Permutations      | <button type="button" class="abstract-link" onclick="showAbstract('sottile')">View Abstract</button>                               |
 | October 2, 2026   | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)      | One more log on the way to Hadwiger's conjecture      |  <button type="button" class="abstract-link" onclick="showAbstract('chun-hung')">View Abstract</button>                                |
-| October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       |       |                                 |
+| October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       | New Approaches to Identities for Vacillating Tableaux      |    <button type="button" class="abstract-link" onclick="showAbstract('catherine')">View Abstract</button>                                |
 | October 16, 2026  |[Charlie Maglund](https://charlie.magland.org/) (UW)         |       |                                 |
 | October 23, 2026  |         |       |                                 |
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
@@ -75,6 +75,10 @@ This is joint work with Changzheng Li and Mingzhi Yang.</p>
 
 <div id="chun-hung" style="display:none;" aria-hidden="true">
 In 1943, Hadwiger conjectured that every graph that does not contain the complete graph on t+1 vertices as a minor is properly t-colorable. This conjecture is considered one of the major open problems in graph theory, and the t=4 case implies the Four Color Theorem. Delcourt and Postle made a breakthrough a few years ago, showing that O(t loglog t) colors are sufficient. In this talk we will show that O(t logloglog t) colors are sufficient by building on their result. Joint work with Jason Luo.
+</div>
+
+<div id="catherine" style="display:none;" aria-hidden="true">
+A fundamental identity for the number of vacillating tableaux was originally obtained through the representation theory of partition algebras. We extend this identity to arbitrary differential posets and show that it, together with several analogous identities, follows directly from the structural properties of differential posets. Specializing to Young's lattice and its Cartesian powers, we further obtain new bijective proofs via a simple deletion--insertion process.  This is a joint work with Derek Wu. 
 </div>
 
 <!-- Code that makes the pop-up windows -->

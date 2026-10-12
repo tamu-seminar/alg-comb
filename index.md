@@ -34,7 +34,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 23, 2026  |         |       |                                 |
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
 | November 6, 2026  |         |       |                                 |
-| November 13, 2026 |[Shi-Xuan Zhang](https://shixuan.page/) (TAMU)         |       |                                 |
+| November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |       |                                 |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |
 | November 27, 2026 |         |       | No seminar, Thanksgiving       |
 | December 4, 2026  |         |       | No seminar, reading day/finals |

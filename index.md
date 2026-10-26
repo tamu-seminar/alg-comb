@@ -35,6 +35,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
 | November 6, 2026  |         |       | No seminar, departmental colloquium from [Bradley Dirks](https://calendar.tamu.edu/math/event/489142-departmental-colloquium-bradley-dirks)                               |
 | November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |       |                                 |
+| November 16, 2026 |[Siddarth Kannan](https://sites.google.com/view/siddarthkannan?pli=1&authuser=0) (MIT)         |       | **Departmental Colloquium**, 4-5 PM in Blocker 117                                |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |
 | November 27, 2026 |         |       | No seminar, Thanksgiving       |
 | December 4, 2026  |         |       | No seminar, reading day/finals |

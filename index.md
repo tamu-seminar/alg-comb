@@ -31,9 +31,9 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 2, 2026   | [Chun-Hung Liu](https://people.tamu.edu/~chliu/) (TAMU)      | One more log on the way to Hadwiger's conjecture      |  <button type="button" class="abstract-link" onclick="showAbstract('chun-hung')">View Abstract</button>                                |
 | October 9, 2026   |[Catherine Yan](https://people.tamu.edu/~huafei-yan/) (TAMU)       | New Approaches to Identities for Vacillating Tableaux      |    <button type="button" class="abstract-link" onclick="showAbstract('catherine')">View Abstract</button>                                |
 | October 16, 2026  |[Charlie Magland](https://charlie.magland.org/) (UW)         | The Balmer Spectrum of $\text{Ver}_8^+$      |  <button type="button" class="abstract-link" onclick="showAbstract('magland')">View Abstract</button>                               |
-| October 23, 2026  |         |       |                                 |
+| October 23, 2026  |         |       | No seminar                                |
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
-| November 6, 2026  |         |       |                                 |
+| November 6, 2026  |         |       | No seminar, departmental colloquium from [Bradley Dirks](https://calendar.tamu.edu/math/event/489142-departmental-colloquium-bradley-dirks)                               |
 | November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |       |                                 |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |
 | November 27, 2026 |         |       | No seminar, Thanksgiving       |

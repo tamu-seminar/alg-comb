@@ -33,7 +33,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 16, 2026  |[Charlie Magland](https://charlie.magland.org/) (UW)         | The Balmer Spectrum of $\text{Ver}_8^+$      |  <button type="button" class="abstract-link" onclick="showAbstract('magland')">View Abstract</button>                               |
 | October 23, 2026  |         |       | No seminar                                |
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
-| November 6, 2026  |[Brad Dirks](https://bdirks8.github.io/)          |       | **Departmental colloquium**, 4-5 PM, Blocker 117                            |
+| November 6, 2026  |[Brad Dirks](https://bdirks8.github.io/) (Stony Brook)          |       | **Departmental colloquium**, 4-5 PM, Blocker 117                            |
 | November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |       |                                 |
 | **November 16, 2026** |[Siddarth Kannan](https://sites.google.com/view/siddarthkannan?pli=1&authuser=0) (MIT)         |       | **Departmental Colloquium**, 4-5 PM in Blocker 117                                |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |

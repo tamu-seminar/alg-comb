@@ -34,7 +34,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 23, 2026  |         |       | No seminar                                |
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
 | November 6, 2026  |[Brad Dirks](https://bdirks8.github.io/) (Stony Brook)          |       | **Departmental colloquium**, 4-5 PM, Blocker 117                            |
-| November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |       |                                 |
+| November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |When Unique PSD Completions Attain the Pythagoras Number of Graph Varieties       | <button type="button" class="abstract-link" onclick="showAbstract('zhang')">View Abstract</button>                                 |
 | **November 16, 2026** |[Siddarth Kannan](https://sites.google.com/view/siddarthkannan?pli=1&authuser=0) (MIT)         |       | **Departmental Colloquium**, 4-5 PM in Blocker 117                                |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |
 | November 27, 2026 |         |       | No seminar, Thanksgiving       |
@@ -84,6 +84,11 @@ A fundamental identity for the number of vacillating tableaux was originally obt
 
 <div id="magland" style="display:none;" aria-hidden="true">
 Over any field, we can "add" and "multiply" vector spaces using direct sums and tensor products. Similarly, if we have two representations of a group $G$, we can "add" and "multiply" these by giving their direct sums and tensor products a natural action from $G$. Both of these are examples of tensor categories. On the underlying space, the tensor product of representations is the same as over vector spaces. Over a field of positive characteristic, Benson, Etingof, and Ostrik constructed an infinite family of tensor categories, called the higher Verlinde categories, whose tensor product is fundamentally different from vector spaces. In this talk, we explore the structure of one of these categories, $\text{Ver}_8^+$, by viewing it as modules of some algebra. We give a combinatorial classification of the indecomposable modules by strings and bands, and describe the structure of the unique tensor product of $\text{Ver}_8^+$ by determining how it acts on its Auslander--Reiten quiver. This is joint work with Andrew Aguilar, Wolfgang Allred, and Ian Martin.
+</div>
+
+<div id="zhang" style="display:none;" aria-hidden="true">
+We study the minimum rank of positive semidefinite (PSD) completions of partially specified symmetric matrices. For a fixed pattern of specified entries, the largest such minimum rank over all PSD-completable instances is the Gram dimension of the underlying graph, equivalently the Pythagoras number of its associated graph variety.
+We investigate whether this largest minimum rank can always be attained by a partially specified matrix with a unique PSD completion. We show that this holds when the Gram dimension is \(n-1\) or \(n-2\), where \(n\) is the matrix size. Consequently, unique PSD completions provide exact certificates for the Pythagoras number in these regimes. We further exhibit graphs for which these certificates give strictly stronger lower bounds than those obtained from quadratic persistence and its iterative variant.
 </div>
 
 <!-- Code that makes the pop-up windows -->

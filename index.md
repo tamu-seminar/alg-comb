@@ -89,6 +89,8 @@ Over any field, we can "add" and "multiply" vector spaces using direct sums and 
 <div id="zhang" style="display:none;" aria-hidden="true">
 We study the minimum rank of positive semidefinite (PSD) completions of partially specified symmetric matrices. For a fixed pattern of specified entries, the largest such minimum rank over all PSD-completable instances is the Gram dimension of the underlying graph, equivalently the Pythagoras number of its associated graph variety.
 We investigate whether this largest minimum rank can always be attained by a partially specified matrix with a unique PSD completion. We show that this holds when the Gram dimension is \(n-1\) or \(n-2\), where \(n\) is the matrix size. Consequently, unique PSD completions provide exact certificates for the Pythagoras number in these regimes. We further exhibit graphs for which these certificates give strictly stronger lower bounds than those obtained from quadratic persistence and its iterative variant.
+
+This is joint work with Greg Blekherman and Jaewoo Jung.
 </div>
 
 <!-- Code that makes the pop-up windows -->

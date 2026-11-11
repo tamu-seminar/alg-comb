@@ -33,9 +33,9 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | October 16, 2026  |[Charlie Magland](https://charlie.magland.org/) (UW)         | The Balmer Spectrum of $\text{Ver}_8^+$      |  <button type="button" class="abstract-link" onclick="showAbstract('magland')">View Abstract</button>                               |
 | October 23, 2026  |         |       | No seminar                                |
 | October 30, 2026  |         |       | No seminar, [SIAM TX-LA Regional Meeting](https://sites.google.com/view/siam-txla-2026)                                |
-| November 6, 2026  |[Brad Dirks](https://bdirks8.github.io/) (Stony Brook)          |       | **Departmental colloquium**, 4-5 PM, Blocker 117                            |
+| November 6, 2026  |[Brad Dirks](https://bdirks8.github.io/) (Stony Brook)          | Singularities and Limits of Algebraic Varieties      | **Departmental colloquium**, 4-5 PM, Blocker 117, <button type="button" class="abstract-link" onclick="showAbstract('dirks')">View Abstract</button>                             |
 | November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |When Unique PSD Completions Attain the Pythagoras Number of Graph Varieties       | <button type="button" class="abstract-link" onclick="showAbstract('zhang')">View Abstract</button>                                 |
-| **November 16, 2026** |[Siddarth Kannan](https://sites.google.com/view/siddarthkannan?pli=1&authuser=0) (MIT)         |       | **Departmental Colloquium**, 4-5 PM in Blocker 117                                |
+| **November 16, 2026** |[Siddarth Kannan](https://sites.google.com/view/siddarthkannan?pli=1&authuser=0) (MIT)         | The geometry of moduli of curves in projective space via the representation theory of the symmetric group      | **Departmental Colloquium**, 4-5 PM in Blocker 117, <button type="button" class="abstract-link" onclick="showAbstract('kannan')">View Abstract</button>                                 |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         |       |                                 |
 | November 27, 2026 |         |       | No seminar, Thanksgiving       |
 | December 4, 2026  |         |       | No seminar, reading day/finals |
@@ -91,6 +91,18 @@ We study the minimum rank of positive semidefinite (PSD) completions of partiall
 We investigate whether this largest minimum rank can always be attained by a partially specified matrix with a unique PSD completion. We show that this holds when the Gram dimension is \(n-1\) or \(n-2\), where \(n\) is the matrix size. Consequently, unique PSD completions provide exact certificates for the Pythagoras number in these regimes. We further exhibit graphs for which these certificates give strictly stronger lower bounds than those obtained from quadratic persistence and its iterative variant.
 
 This is joint work with Greg Blekherman and Jaewoo Jung.
+</div>
+
+<div id="kannan" style="display:none;" aria-hidden="true">
+The moduli space of smooth complex algebraic curves is a central object of study in geometry and topology, going back to Riemann. This space has many beautiful properties; for example, it is smooth as a complex orbifold. In modern geometry, it has become increasingly important to generalize from moduli spaces of abstract curves to moduli spaces of curves inside a fixed target algebraic variety. The cohomology of these new moduli spaces provides the foundation for defining curve-counting invariants (such as Gromov—Witten invariants) of general algebraic varieties. This motivates the study of their geometry and topology, which can be arbitrarily more complicated and pathological than in the case of abstract curves.
+
+In this talk, I will explain how combinatorial tools allow us to use classical geometric constructions in order to reduce cohomological calculations on moduli spaces of curves in projective space to calculations on moduli spaces of abstract curves. The most important combinatorial tools have to do with the representation theory of the symmetric group, as encoded in the theory of symmetric functions. 
+</div>
+
+<div id="dirks" style="display:none;" aria-hidden="true">
+As we vary the coefficients of polynomial equations, their solution spaces often develop singularities. These singular limits can simplify geometric problems, provided the singularities are mild enough to preserve the information we care about.
+
+I will explain how Hodge theory helps distinguish mild singularities from severe ones and discuss joint work on detecting mild singularities from their defining equations, with applications to preserving algebraic invariants in families. No background in Hodge theory or singularity theory will be assumed. 
 </div>
 
 <!-- Code that makes the pop-up windows -->

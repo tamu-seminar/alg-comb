@@ -37,7 +37,7 @@ The organizers are [Trevor Karn](https://trevorkarn.github.io/) and [Galen Dorpa
 | November 13, 2026 |[Shixuan Zhang](https://shixuan.page/) (TAMU)         |When Unique PSD Completions Attain the Pythagoras Number of Graph Varieties       | <button type="button" class="abstract-link" onclick="showAbstract('zhang')">View Abstract</button>                                 |
 | **November 17, 2026** |[Siddarth Kannan](https://sites.google.com/view/siddarthkannan?pli=1&authuser=0) (MIT)         | The geometry of moduli of curves in projective space via the representation theory of the symmetric group      | **Departmental Colloquium**, 4-5 PM in Blocker 117, <button type="button" class="abstract-link" onclick="showAbstract('kannan')">View Abstract</button>                                 |
 | November 20, 2026 |[Trevor Karn](https://trevorkarn.github.io/) (TAMU)         | The Varchenko–Gel’fand ring of threshold arrangements      |   <button type="button" class="abstract-link" onclick="showAbstract('karn')">View Abstract</button>                              |
-| November 27, 2026 |         |       | No seminar, Thanksgiving       |
+| November 27, 2026 | [Sarah Witherspoon](https://people.tamu.edu/~sjw/)        |  Cranberry Sauce     | No seminar, Thanksgiving     <button type="button" class="abstract-link" onclick="showAbstract('witherspoon')">View Abstract</button>     |
 | December 4, 2026  |         |       | No seminar, reading day/finals |
 
 # Past Semesters
@@ -107,6 +107,10 @@ I will explain how Hodge theory helps distinguish mild singularities from severe
 
 <div id="karn" style="display:none;" aria-hidden="true">
 Threshold arrangements are a family of hyperplane arrangements whose chambers biject with threshold graphs. The cohomology ring of an associated space is known as the Varchenko--Gel'fand ring of the arrangement. We will describe recent advances in understanding the structure of the Varchenko--Gel'fand rings of threshold arrangements. This is joint work with Sarah Brauner (UPenn) and Megan Chang-Lee (Brown).
+</div>
+
+<div id="witherspoon" style="display:none;" aria-hidden="true">
+Cranberry sauce is delicious!
 </div>
 
 <!-- Code that makes the pop-up windows -->
